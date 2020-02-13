@@ -1,0 +1,81 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,Gurnik,flied out,0,0,0,0,0,0
+Cal-Poly,1,top,2,Greene,flied out,0,0,0,0,0,0
+Cal-Poly,1,top,2,Beesley,singled,1,0,0,0,0,0
+Cal-Poly,1,top,2,Samuelson,singled,1,0,1,0,0,0
+Cal-Poly,1,top,2,Sands,doubled,1,1,1,2,0,2
+Cal-Poly,1,top,3,Wagenseller,grounded out,1,1,1,0,0,2
+Fresno-St.,1,bottom,1,"JAMISON,J.",grounded out,0,0,0,0,0,2
+Fresno-St.,1,bottom,2,"BINS,C.",grounded out,0,0,0,0,0,2
+Fresno-St.,1,bottom,3,"ARRUDA,JT",fouled out,0,0,0,0,0,2
+Cal-Poly,2,top,1,Emmerson,grounded out,0,0,0,0,0,2
+Cal-Poly,2,top,1,DiCarlo,homered,0,0,0,1,0,3
+Cal-Poly,2,top,2,Cano,flied out,0,0,0,0,0,3
+Cal-Poly,2,top,2,Gurnik,hit by pitch,1,0,0,0,0,3
+Cal-Poly,2,top,3,Greene,flied out,1,0,0,0,0,3
+Fresno-St.,2,bottom,1,"TATUM,M.",flied out,0,0,0,0,0,3
+Fresno-St.,2,bottom,2,"DEMPSEY,N.",struck out looking,0,0,0,0,0,3
+Fresno-St.,2,bottom,2,"PETERS,R.",,0,0,0,0,0,3
+Fresno-St.,2,bottom,3,"NOGALES,E.",struck out swinging,0,0,0,0,0,3
+Cal-Poly,3,top,1,Beesley,struck out swinging,0,0,0,0,0,3
+Cal-Poly,3,top,2,Samuelson,out at first p,0,0,0,0,0,3
+Cal-Poly,3,top,3,Sands,grounded out,0,0,0,0,0,3
+Fresno-St.,3,bottom,0,"PRESNO,Z.",singled,1,0,0,0,0,3
+Fresno-St.,3,bottom,1,"ANDREWS,EJ",flied out,1,0,0,0,0,3
+Fresno-St.,3,bottom,2,"CHASTAIN,A.",choice,0,0,0,0,0,3
+Fresno-St.,3,bottom,3,"JAMISON,J.",fouled out,0,0,0,0,0,3
+Cal-Poly,4,top,1,Wagenseller,fouled out,0,0,0,0,0,3
+Cal-Poly,4,top,1,Emmerson,doubled,0,1,0,0,0,3
+Cal-Poly,4,top,1,DiCarlo,homered,0,1,0,2,0,5
+Cal-Poly,4,top,1,Cano,walked,1,1,0,0,0,5
+Cal-Poly,4,top,1,Gurnik,singled,1,1,0,0,0,5
+Cal-Poly,4,top,1,Greene,reached on a fielder's choice,0,1,1,0,0,5
+Cal-Poly,4,top,3,Beesley,flied out,0,1,1,1,0,6
+Fresno-St.,4,bottom,1,"BINS,C.",flied out,0,0,0,0,0,6
+Fresno-St.,4,bottom,1,"ARRUDA,JT",walked,1,0,0,0,0,6
+Fresno-St.,4,bottom,2,"TATUM,M.",popped up,1,0,0,0,0,6
+Fresno-St.,4,bottom,2,"DEMPSEY,N.",tripled,1,0,0,2,2,6
+Fresno-St.,4,bottom,3,"NOGALES,E.",struck out looking,1,0,0,0,2,6
+Cal-Poly,5,top,0,Samuelson,doubled,0,1,0,0,2,6
+Cal-Poly,5,top,2,Sands,lined into double play 3b,0,1,0,0,2,6
+Cal-Poly,5,top,3,Wagenseller,grounded out,0,1,0,0,2,6
+Fresno-St.,5,bottom,0,Cabrera,,0,0,0,0,2,6
+Fresno-St.,5,bottom,1,"PRESNO,Z.",flied out,0,0,0,0,2,6
+Fresno-St.,5,bottom,1,"ANDREWS,EJ",doubled,0,1,0,0,2,6
+Fresno-St.,5,bottom,2,"CHASTAIN,A.",out at first 2b,0,0,1,0,2,6
+Fresno-St.,5,bottom,3,"JAMISON,J.",struck out swinging,0,0,1,0,2,6
+Cal-Poly,6,top,1,Emmerson,grounded out,0,0,0,0,2,6
+Cal-Poly,6,top,2,DiCarlo,grounded out,0,0,0,0,2,6
+Cal-Poly,6,top,2,Cano,tripled,0,0,1,0,2,6
+Cal-Poly,6,top,3,Gurnik,grounded out,0,0,1,0,2,6
+Fresno-St.,6,bottom,1,"BINS,C.",struck out looking,0,0,0,0,2,6
+Fresno-St.,6,bottom,1,"ARRUDA,JT",singled,1,0,0,0,2,6
+Fresno-St.,6,bottom,1,"TATUM,M.",singled,1,1,0,0,2,6
+Fresno-St.,6,bottom,1,"DEMPSEY,N.",homered,1,1,0,3,5,6
+Fresno-St.,6,bottom,2,"NOGALES,E.",struck out swinging,1,1,0,0,5,6
+Fresno-St.,6,bottom,3,"PRESNO,Z.",struck out looking,1,1,0,0,5,6
+Cal-Poly,7,top,0,Greene,singled,1,0,0,0,5,6
+Cal-Poly,7,top,0,Beesley,singled,1,0,1,0,5,6
+Cal-Poly,7,top,1,Samuelson,struck out swinging,1,0,1,0,5,6
+Cal-Poly,7,top,3,Beesley,out at second c,1,0,1,0,5,6
+Fresno-St.,7,bottom,0,"ANDREWS,EJ",singled,1,0,0,0,5,6
+Fresno-St.,7,bottom,1,"CHASTAIN,A.",reached on a fielder's choice,1,0,0,0,5,6
+Fresno-St.,7,bottom,2,"JAMISON,J.",struck out looking,1,0,0,0,5,6
+Fresno-St.,7,bottom,2,"BINS,C.",singled,1,1,0,0,5,6
+Fresno-St.,7,bottom,3,"BINS,C.",out at first c,1,1,0,0,5,6
+Cal-Poly,8,top,1,Sands,grounded out,0,0,0,0,5,6
+Cal-Poly,8,top,2,Cabrera,struck out looking,0,0,0,0,5,6
+Cal-Poly,8,top,3,Emmerson,flied out,0,0,0,0,5,6
+Fresno-St.,8,bottom,0,"ARRUDA,JT",walked,1,0,0,0,5,6
+Fresno-St.,8,bottom,0,"TATUM,M.",singled,1,0,1,0,5,6
+Fresno-St.,8,bottom,0,"DEMPSEY,N.",choice,0,0,0,1,6,6
+Fresno-St.,8,bottom,0,"OTTINO,M.",singled,1,0,1,1,7,6
+Fresno-St.,8,bottom,0,"OTTINO,M.",advanced on wild pitch,0,1,0,0,7,6
+Fresno-St.,8,bottom,1,"PRESNO,Z.",struck out swinging,0,1,0,0,7,6
+Fresno-St.,8,bottom,1,"ANDREWS,EJ",walked,1,1,0,0,7,6
+Fresno-St.,8,bottom,1,"CHASTAIN,A.",walked,1,1,1,1,8,6
+Fresno-St.,8,bottom,1,"JAMISON,J.",infield fly,1,1,1,0,8,6
+Fresno-St.,8,bottom,2,"BINS,C.",flied out,1,1,1,0,8,6
+Fresno-St.,8,bottom,3,DiCarlo,struck out swinging,1,1,1,0,8,6
+Cal-Poly,9,top,1,Cano,struck out looking,0,0,0,0,8,6
+Cal-Poly,9,top,2,Gurnik,out at first 1b,0,0,0,0,8,6

@@ -1,0 +1,94 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,Cano,grounded out,0,0,0,0,0,0
+Cal-Poly,1,top,1,Greene,ss,0,0,0,0,0,0
+Cal-Poly,1,top,1,Beesley,doubled,0,1,0,1,0,1
+Cal-Poly,1,top,2,Samuelson,flied out,0,1,0,0,0,1
+Cal-Poly,1,top,3,DiCarlo,grounded out,0,1,0,0,0,1
+Oklahoma,1,bottom,0,"Tredaway,T.",walked,1,0,0,0,0,1
+Oklahoma,1,bottom,0,"Zaragoza,B.",walked,1,1,0,0,0,1
+Oklahoma,1,bottom,0,"Ware,Brylie",singled,1,1,1,0,0,1
+Oklahoma,1,bottom,1,"Lindsly,B.",fouled out,1,1,1,0,0,1
+Oklahoma,1,bottom,2,"McKenna,C.",struck out swinging,1,1,1,0,0,1
+Oklahoma,1,bottom,3,"Hardman,T.",flied out,1,1,1,0,0,1
+Cal-Poly,2,top,1,Wagenseller,struck out looking,0,0,0,0,0,1
+Cal-Poly,2,top,1,Emmerson,singled,1,0,0,0,0,1
+Cal-Poly,2,top,2,Doherty,reached on a fielder's choice,1,0,0,0,0,1
+Cal-Poly,2,top,3,Taylor,flied out,1,0,0,0,0,1
+Oklahoma,2,bottom,0,"Mitchell,J.",doubled,0,1,0,0,0,1
+Oklahoma,2,bottom,0,"Brewster,B.",hit by pitch,1,1,0,0,0,1
+Oklahoma,2,bottom,1,"Walla,Milan",out at first p,0,1,1,0,0,1
+Oklahoma,2,bottom,1,"Tredaway,T.",walked,1,1,1,0,0,1
+Oklahoma,2,bottom,2,"Zaragoza,B.",choice,0,0,1,1,1,1
+Oklahoma,2,bottom,3,"Ware,Brylie",struck out swinging,0,0,1,0,1,1
+Cal-Poly,3,top,1,Cano,grounded out,0,0,0,0,1,1
+Cal-Poly,3,top,2,Greene,flied out,0,0,0,0,1,1
+Cal-Poly,3,top,2,Beesley,singled,1,0,0,0,1,1
+Cal-Poly,3,top,3,Samuelson,flied out,1,0,0,0,1,1
+Oklahoma,3,bottom,1,"Lindsly,B.",fouled out,0,0,0,0,1,1
+Oklahoma,3,bottom,2,"McKenna,C.",flied out,0,0,0,0,1,1
+Oklahoma,3,bottom,3,"Hardman,T.",grounded out,0,0,0,0,1,1
+Cal-Poly,4,top,1,DiCarlo,grounded out,0,0,0,0,1,1
+Cal-Poly,4,top,2,Wagenseller,grounded out,0,0,0,0,1,1
+Cal-Poly,4,top,2,Emmerson,walked,1,0,0,0,1,1
+Cal-Poly,4,top,3,Doherty,grounded out,1,0,0,0,1,1
+Oklahoma,4,bottom,1,"Mitchell,J.",flied out,0,0,0,0,1,1
+Oklahoma,4,bottom,1,"Brewster,B.",walked,1,0,0,0,1,1
+Oklahoma,4,bottom,1,"Walla,Milan",ss,0,0,0,0,1,1
+Oklahoma,4,bottom,2,"Tredaway,T.",flied out,0,0,0,1,2,1
+Oklahoma,4,bottom,2,"Zaragoza,B.",singled,0,0,0,1,3,1
+Oklahoma,4,bottom,2,"Ware,Brylie",intentionally walked.,1,0,0,0,3,1
+Oklahoma,4,bottom,2,"Lindsly,B.",walked,1,1,1,0,3,1
+Oklahoma,4,bottom,3,"McKenna,C.",flied out,1,1,1,0,3,1
+Cal-Poly,5,top,0,"Vujovich,J.",,0,0,0,0,3,1
+Cal-Poly,5,top,0,"Brewster,B.",,0,0,0,0,3,1
+Cal-Poly,5,top,1,Taylor,grounded out,0,0,0,0,3,1
+Cal-Poly,5,top,2,Cano,grounded out,0,0,0,0,3,1
+Cal-Poly,5,top,2,Greene,singled,1,0,0,0,3,1
+Cal-Poly,5,top,3,Beesley,doubled,0,1,0,0,3,1
+Oklahoma,5,bottom,0,"Hardman,T.",singled,1,0,0,0,3,1
+Oklahoma,5,bottom,1,"Mitchell,J.",grounded out,0,1,0,0,3,1
+Oklahoma,5,bottom,2,"Brewster,B.",lined out,0,1,0,0,3,1
+Oklahoma,5,bottom,2,"Walla,Milan",walked,1,1,0,0,3,1
+Oklahoma,5,bottom,2,"Vujovich,J.",singled,1,0,1,1,4,1
+Oklahoma,5,bottom,3,"Zaragoza,B.",flied out,1,0,1,0,4,1
+Cal-Poly,6,top,1,Samuelson,grounded out,0,0,0,0,4,1
+Cal-Poly,6,top,1,DiCarlo,singled,1,0,0,0,4,1
+Cal-Poly,6,top,2,Wagenseller,flied out,1,0,0,0,4,1
+Cal-Poly,6,top,3,Emmerson,struck out looking,1,0,0,0,4,1
+Oklahoma,6,bottom,0,"Ware,Brylie",reached on a fielding error by ss,0,0,0,0,4,1
+Oklahoma,6,bottom,0,"Lindsly,B.",doubled,0,1,0,1,5,1
+Oklahoma,6,bottom,0,"McKenna,C.",singled,1,1,0,1,6,1
+Oklahoma,6,bottom,1,"Hardman,T.",struck out swinging,1,1,0,0,6,1
+Oklahoma,6,bottom,1,"McKenna,C.",advanced on wild pitch,0,1,0,0,6,1
+Oklahoma,6,bottom,1,"Mitchell,J.",tripled,0,1,1,1,7,1
+Oklahoma,6,bottom,2,"Brewster,B.",grounded out,0,1,1,1,8,1
+Oklahoma,6,bottom,3,"Walla,Milan",grounded out,0,1,1,0,8,1
+Cal-Poly,7,top,1,Esperanza,struck out swinging,0,0,0,0,8,1
+Cal-Poly,7,top,1,Taylor,singled,1,0,0,0,8,1
+Cal-Poly,7,top,1,Cano,doubled,0,1,1,0,8,1
+Cal-Poly,7,top,2,Greene,flied out,0,1,1,0,8,1
+Cal-Poly,7,top,2,Beesley,singled,1,1,1,2,8,3
+Cal-Poly,7,top,3,Samuelson,lined out,1,1,1,0,8,3
+Oklahoma,7,bottom,0,Cano,,0,0,0,0,8,3
+Oklahoma,7,bottom,0,Gurnick,,0,0,0,0,8,3
+Oklahoma,7,bottom,0,"Vujovich,J.",doubled,0,1,0,0,8,3
+Oklahoma,7,bottom,1,"Zaragoza,B.",grounded out,0,1,0,0,8,3
+Oklahoma,7,bottom,1,"Ware,Brylie",reached on a fielding error by 2b,0,0,1,0,8,3
+Oklahoma,7,bottom,1,"Lindsly,B.",hit by pitch,1,1,0,0,8,3
+Oklahoma,7,bottom,3,"McKenna,C.",grounded into double play ss,1,1,0,0,8,3
+Cal-Poly,8,top,0,DiCarlo,walked,1,0,0,0,8,3
+Cal-Poly,8,top,1,Wagenseller,struck out swinging,1,0,0,0,8,3
+Cal-Poly,8,top,1,Emmerson,singled,1,1,0,0,8,3
+Cal-Poly,8,top,2,Mackay,struck out swinging,0,0,0,0,8,3
+Cal-Poly,8,top,3,Taylor,struck out looking,0,0,0,0,8,3
+Oklahoma,8,bottom,0,Cano,,0,0,0,0,8,3
+Oklahoma,8,bottom,0,Kuzma,,0,0,0,0,8,3
+Oklahoma,8,bottom,1,"Hardman,T.",struck out swinging,0,0,0,0,8,3
+Oklahoma,8,bottom,2,"Mitchell,J.",grounded out,0,0,0,0,8,3
+Oklahoma,8,bottom,2,"Brewster,B.",doubled,0,0,0,0,8,3
+Oklahoma,8,bottom,2,"Walla,Milan",singled,1,0,0,1,9,3
+Oklahoma,8,bottom,3,"Vujovich,J.",grounded out,1,0,0,0,9,3
+Cal-Poly,9,top,1,Cano,grounded out,0,0,0,0,9,3
+Cal-Poly,9,top,1,Greene,singled,1,0,0,0,9,3
+Cal-Poly,9,top,2,Beesley,struck out swinging,1,0,0,0,9,3
+Cal-Poly,9,top,3,Samuelson,struck out swinging,1,0,0,0,9,3

@@ -1,0 +1,77 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Hawaii,1,top,0,"Scott,S.",singled,0,0,0,0,0,0
+Hawaii,1,top,1,"Kennelly,J.",out at first p,0,0,1,0,0,0
+Hawaii,1,top,1,"Hancock,B.",hit by pitch,1,0,1,0,0,0
+Hawaii,1,top,1,"Lopez,E.",singled,1,1,0,1,0,1
+Hawaii,1,top,2,"Calicdan,D.",grounded out,0,1,1,0,0,1
+Hawaii,1,top,3,"Baeza,A.",lined out,0,1,1,0,0,1
+Cal-Poly,1,bottom,1,Gurnik,flied out,0,0,0,0,0,1
+Cal-Poly,1,bottom,2,Greene,flied out,0,0,0,0,0,1
+Cal-Poly,1,bottom,3,Beesley,grounded out,0,0,0,0,0,1
+Hawaii,2,top,1,"Duarte,D.",grounded out,0,0,0,0,0,1
+Hawaii,2,top,1,"Murray,T.",singled,1,0,0,0,0,1
+Hawaii,2,top,1,"Best,T.",reached on a fielding error by 3b,0,1,0,0,0,1
+Hawaii,2,top,3,"Scott,S.",grounded into double play ss,0,1,0,0,0,1
+Cal-Poly,2,bottom,1,Samuelson,grounded out,0,0,0,0,0,1
+Cal-Poly,2,bottom,2,Sands,grounded out,0,0,0,0,0,1
+Cal-Poly,2,bottom,3,Emmerson,grounded out,0,0,0,0,0,1
+Hawaii,3,top,1,"Kennelly,J.",grounded out,0,0,0,0,0,1
+Hawaii,3,top,2,"Hancock,B.",struck out looking,0,0,0,0,0,1
+Hawaii,3,top,2,"Lopez,E.",1b,0,0,0,0,0,1
+Hawaii,3,top,3,"Calicdan,D.",struck out swinging,0,0,0,0,0,1
+Cal-Poly,3,bottom,1,DiCarlo,struck out looking,0,0,0,0,0,1
+Cal-Poly,3,bottom,1,Cabrera,hit by pitch,1,0,0,0,0,1
+Cal-Poly,3,bottom,2,Kuzma,struck out swinging,1,0,0,0,0,1
+Cal-Poly,3,bottom,2,Gurnik,singled,1,1,0,0,0,1
+Cal-Poly,3,bottom,2,Greene,reached on a throwing error by ss,0,1,1,0,0,1
+Cal-Poly,3,bottom,3,Beesley,popped up,0,1,1,0,0,1
+Hawaii,4,top,1,"Baeza,A.",grounded out,0,0,0,0,0,1
+Hawaii,4,top,2,"Duarte,D.",lined out,0,0,0,0,0,1
+Hawaii,4,top,3,"Murray,T.",flied out,0,0,0,0,0,1
+Cal-Poly,4,bottom,1,Samuelson,flied out,0,0,0,0,0,1
+Cal-Poly,4,bottom,1,Sands,doubled,0,1,0,0,0,1
+Cal-Poly,4,bottom,1,Emmerson,singled,1,1,0,1,1,1
+Cal-Poly,4,bottom,2,DiCarlo,struck out swinging,1,1,0,0,1,1
+Cal-Poly,4,bottom,3,Cabrera,lined out,1,1,0,0,1,1
+Hawaii,5,top,0,"Best,T.",singled,1,0,0,0,1,1
+Hawaii,5,top,0,"Scott,S.",singled,1,1,0,0,1,1
+Hawaii,5,top,1,"Kennelly,J.",out at first p,0,1,1,0,1,1
+Hawaii,5,top,1,"Hancock,B.",doubled,0,1,1,1,1,2
+Hawaii,5,top,1,"Lopez,E.",singled,1,1,1,2,1,4
+Hawaii,5,top,1,"Calicdan,D.",hit by pitch,1,1,0,0,1,4
+Hawaii,5,top,2,"Baeza,A.",grounded out,0,1,1,0,1,4
+Hawaii,5,top,3,"Duarte,D.",grounded out,0,1,1,0,1,4
+Cal-Poly,5,bottom,1,Kuzma,grounded out,0,0,0,0,1,4
+Cal-Poly,5,bottom,2,Gurnik,grounded out,0,0,0,0,1,4
+Cal-Poly,5,bottom,3,Greene,lined out,0,0,0,0,1,4
+Hawaii,6,top,1,"Murray,T.",flied out,0,0,0,0,1,4
+Hawaii,6,top,1,"Best,T.",walked,1,0,0,0,1,4
+Hawaii,6,top,1,"Scott,S.",singled,1,1,0,0,1,4
+Hawaii,6,top,2,"Kennelly,J.",grounded out,0,1,1,0,1,4
+Hawaii,6,top,3,"Hancock,B.",struck out looking,0,1,1,0,1,4
+Cal-Poly,6,bottom,1,Beesley,flied out,0,0,0,0,1,4
+Cal-Poly,6,bottom,2,Samuelson,grounded out,0,0,0,0,1,4
+Cal-Poly,6,bottom,3,Sands,flied out,0,0,0,0,1,4
+Hawaii,7,top,1,"Lopez,E.",flied out,0,0,0,0,1,4
+Hawaii,7,top,2,"Calicdan,D.",struck out swinging,0,0,0,0,1,4
+Hawaii,7,top,2,"Baeza,A.",walked,1,0,0,0,1,4
+Hawaii,7,top,3,"Duarte,D.",flied out,1,0,0,0,1,4
+Cal-Poly,7,bottom,1,Emmerson,flied out,0,0,0,0,1,4
+Cal-Poly,7,bottom,2,DiCarlo,flied out,0,0,0,0,1,4
+Cal-Poly,7,bottom,3,Cabrera,flied out,0,0,0,0,1,4
+Hawaii,8,top,1,"Murray,T.",struck out swinging,0,0,0,0,1,4
+Hawaii,8,top,2,"Best,T.",struck out swinging,0,0,0,0,1,4
+Hawaii,8,top,3,"Scott,S.",grounded out,0,0,0,0,1,4
+Cal-Poly,8,bottom,0,Kuzma,walked,1,0,0,0,1,4
+Cal-Poly,8,bottom,1,Gurnik,reached on a fielder's choice,1,0,0,0,1,4
+Cal-Poly,8,bottom,2,Greene,struck out swinging,1,0,0,0,1,4
+Cal-Poly,8,bottom,3,Beesley,flied out,1,0,0,0,1,4
+Hawaii,9,top,0,"Kennelly,J.",singled,1,0,0,0,1,4
+Hawaii,9,top,1,"Hancock,B.",flied out,1,0,0,0,1,4
+Hawaii,9,top,2,"Lopez,E.",flied out,1,0,0,0,1,4
+Hawaii,9,top,3,"Calicdan,D.",flied out,1,0,0,0,1,4
+Cal-Poly,9,bottom,1,Samuelson,grounded out,0,0,0,0,1,4
+Cal-Poly,9,bottom,2,Sands,struck out swinging,0,0,0,0,1,4
+Cal-Poly,9,bottom,2,Emmerson,reached on a fielding error by 2b,0,0,0,0,1,4
+Cal-Poly,9,bottom,2,Emmerson,advanced on wild pitch,0,1,0,0,1,4
+Cal-Poly,9,bottom,3,Taylor,struck out swinging,0,1,0,0,1,4

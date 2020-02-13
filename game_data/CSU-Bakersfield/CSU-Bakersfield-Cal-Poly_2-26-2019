@@ -1,0 +1,76 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+CSU-Bakersfield,1,top,0,"Barba,N",walked,1,0,0,0,0,0
+CSU-Bakersfield,1,top,1,"Picketts,W",struck out looking,1,0,0,0,0,0
+CSU-Bakersfield,1,top,2,"Koch,R",flied out,1,0,0,0,0,0
+CSU-Bakersfield,1,top,3,"Barba,N",out at second p,1,0,0,0,0,0
+Cal-Poly,1,bottom,0,Cabrera,walked,1,0,0,0,0,0
+Cal-Poly,1,bottom,1,Greene,grounded out,0,1,0,0,0,0
+Cal-Poly,1,bottom,2,Beesley,flied out,0,1,0,0,0,0
+Cal-Poly,1,bottom,2,Samuelson,walked,1,1,1,0,0,0
+Cal-Poly,1,bottom,3,Mackay,struck out looking,1,1,1,0,0,0
+CSU-Bakersfield,2,top,0,"Valletta,C",walked,1,0,0,0,0,0
+CSU-Bakersfield,2,top,1,"Rowley,J",grounded out,0,1,0,0,0,0
+CSU-Bakersfield,2,top,1,"Ortega,J",walked,1,1,0,0,0,0
+CSU-Bakersfield,2,top,2,"Ortega,J",advanced on wild pitch,0,1,0,0,0,0
+CSU-Bakersfield,2,top,3,"Oliver,J",flied out,0,1,0,0,0,0
+Cal-Poly,2,bottom,1,DiCarlo,flied out,0,0,0,0,0,0
+Cal-Poly,2,bottom,1,Sands,singled,1,0,0,0,0,0
+Cal-Poly,2,bottom,2,Gurnik,reached on a fielder's choice,1,0,0,0,0,0
+Cal-Poly,2,bottom,3,Gurnik,out at second c,1,0,0,0,0,0
+CSU-Bakersfield,3,top,1,"Jorgensen,T",struck out swinging,0,0,0,0,0,0
+CSU-Bakersfield,3,top,2,"Carrizosa,D",struck out swinging,0,0,0,0,0,0
+CSU-Bakersfield,3,top,3,"Barba,N",struck out looking,0,0,0,0,0,0
+Cal-Poly,3,bottom,1,Doherty,struck out swinging,0,0,0,0,0,0
+Cal-Poly,3,bottom,2,Cabrera,struck out looking,0,0,0,0,0,0
+Cal-Poly,3,bottom,3,Greene,flied out,0,0,0,0,0,0
+CSU-Bakersfield,4,top,0,"Picketts,W",doubled,0,1,0,0,0,0
+CSU-Bakersfield,4,top,1,"Koch,R",fouled out,0,1,0,0,0,0
+CSU-Bakersfield,4,top,1,"Picketts,W",advanced on wild pitch,0,0,1,0,0,0
+CSU-Bakersfield,4,top,3,"Valletta,C",flied into double play rf,0,0,1,0,0,0
+Cal-Poly,4,bottom,1,Picketts,called out on appeal for leaving third base early.,0,0,0,0,0,0
+Cal-Poly,4,bottom,2,Beesley,flied out,0,0,0,0,0,0
+Cal-Poly,4,bottom,3,Samuelson,flied out,0,0,0,0,0,0
+CSU-Bakersfield,5,top,0,Mackay,doubled,0,1,0,0,0,0
+CSU-Bakersfield,5,top,1,DiCarlo,grounded out,0,1,0,0,0,0
+CSU-Bakersfield,5,top,2,"Rowley,J",grounded out,0,1,0,0,0,0
+CSU-Bakersfield,5,top,3,"Ortega,J",grounded out,0,1,0,0,0,0
+Cal-Poly,5,bottom,1,"Oliver,J",flied out,0,0,0,0,0,0
+Cal-Poly,5,bottom,2,Sands,grounded out,0,0,0,0,0,0
+Cal-Poly,5,bottom,3,Gurnik,flied out,0,0,0,0,0,0
+CSU-Bakersfield,6,top,0,Doherty,walked,1,0,0,0,0,0
+CSU-Bakersfield,6,top,0,Cabrera,walked,1,1,0,0,0,0
+CSU-Bakersfield,6,top,0,Greene,singled,1,0,1,1,0,1
+CSU-Bakersfield,6,top,1,Beesley,flied out,1,0,1,0,0,1
+CSU-Bakersfield,6,top,1,"Jorgensen,T",walked,1,0,1,0,0,1
+CSU-Bakersfield,6,top,1,"Jorgensen,T",advanced on wild pitch,0,1,0,0,0,1
+CSU-Bakersfield,6,top,1,"Carrizosa,D",hit by pitch,1,1,0,0,0,1
+CSU-Bakersfield,6,top,2,"Barba,N",struck out swinging,1,1,0,0,0,1
+CSU-Bakersfield,6,top,3,Barba,fouled off bunt attempt on 0-2 pitch for strikeout.,1,1,0,0,0,1
+Cal-Poly,6,bottom,2,"Picketts,W",infield fly double play lf,0,1,0,0,0,1
+Cal-Poly,6,bottom,4,Picketts,fly,0,1,0,0,0,1
+CSU-Bakersfield,7,top,1,Samuelson,struck out looking,0,0,0,0,0,1
+CSU-Bakersfield,7,top,2,Mackay,struck out swinging,0,0,0,0,0,1
+CSU-Bakersfield,7,top,2,DiCarlo,doubled,0,1,0,0,0,1
+CSU-Bakersfield,7,top,2,Sands,singled,1,1,0,1,0,2
+CSU-Bakersfield,7,top,3,Gurnik,fouled out,1,1,0,0,0,2
+Cal-Poly,7,bottom,0,Emmerson,,0,0,0,0,0,2
+Cal-Poly,7,bottom,1,"Koch,R",struck out looking,0,0,0,0,0,2
+Cal-Poly,7,bottom,2,"Valletta,C",struck out swinging,0,0,0,0,0,2
+Cal-Poly,7,bottom,3,"Rowley,J",struck out swinging,0,0,0,0,0,2
+CSU-Bakersfield,8,top,1,Doherty,grounded out,0,0,0,0,0,2
+CSU-Bakersfield,8,top,2,Cabrera,struck out swinging,0,0,0,0,0,2
+CSU-Bakersfield,8,top,3,Greene,flied out,0,0,0,0,0,2
+Cal-Poly,8,bottom,0,"Ortega,J",walked,1,0,0,0,0,2
+Cal-Poly,8,bottom,1,"Grossman,N",struck out swinging,1,0,0,0,0,2
+Cal-Poly,8,bottom,1,"Jorgensen,T",singled,1,1,0,0,0,2
+Cal-Poly,8,bottom,2,"Henderson,D",struck out looking,1,1,0,0,0,2
+Cal-Poly,8,bottom,3,"Barba,N",lined out,1,1,0,0,0,2
+CSU-Bakersfield,9,top,0,"Grossman,N",,0,0,0,0,0,2
+CSU-Bakersfield,9,top,0,"Berkey,E",,0,0,0,0,0,2
+CSU-Bakersfield,9,top,1,Beesley,grounded out,0,0,0,0,0,2
+CSU-Bakersfield,9,top,1,Samuelson,singled,1,0,0,0,0,2
+CSU-Bakersfield,9,top,2,Emmerson,grounded out,0,1,0,0,0,2
+CSU-Bakersfield,9,top,3,DiCarlo,lined out,0,1,0,0,0,2
+Cal-Poly,9,bottom,1,"Picketts,W",struck out swinging,0,0,0,0,0,2
+Cal-Poly,9,bottom,1,"Koch,R",doubled,0,1,0,0,0,2
+Cal-Poly,9,bottom,3,"Robles,S",lined into double play 2b,0,1,0,0,0,2

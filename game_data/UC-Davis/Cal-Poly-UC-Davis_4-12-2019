@@ -1,0 +1,81 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,"Gurnik,Connor",popped up,0,0,0,0,0,0
+Cal-Poly,1,top,1,"Greene,Elijah",walked.,1,0,0,0,0,0
+Cal-Poly,1,top,1,"Beesley,Bradlee",Greene,1,1,0,0,0,0
+Cal-Poly,1,top,2,"Samuelson,Tate",flied out,1,1,0,0,0,0
+Cal-Poly,1,top,2,"Sands,Conagher",tripled,1,1,1,2,0,2
+Cal-Poly,1,top,3,"DiCarlo,Nick",struck out swinging.,1,1,1,0,0,2
+UC-Davis,1,bottom,1,"Murray,Tanner",flied out,0,0,0,0,0,2
+UC-Davis,1,bottom,1,"Morrison,Cooper",hit by pitch.,1,0,0,0,0,2
+UC-Davis,1,bottom,2,"Denholm,Logan",struck out swinging.,1,0,0,0,0,2
+UC-Davis,1,bottom,2,"Morrison,Cooper",stole,1,1,0,0,0,2
+UC-Davis,1,bottom,3,"VanBlake,Caleb",grounded out,1,1,0,0,0,2
+Cal-Poly,2,top,1,"Cabrera,Cole",flied out,0,0,0,0,0,2
+Cal-Poly,2,top,2,"Kuzma,Jack",flied out,0,0,0,0,0,2
+Cal-Poly,2,top,3,"Emmerson,Myles",struck out swinging.,0,0,0,0,0,2
+UC-Davis,2,bottom,0,"Myers,Joseph",singled,1,0,0,0,0,2
+UC-Davis,2,bottom,0,"Lara,Alejandro",Myers,1,1,0,0,0,2
+UC-Davis,2,bottom,1,"Smith,Jalen",popped up,1,1,0,0,0,2
+UC-Davis,2,bottom,3,"Evans,Colton",grounded into double play 2b,1,1,0,0,0,2
+Cal-Poly,3,top,0,"Gurnik,Connor",hit by pitch.,1,0,0,0,0,2
+Cal-Poly,3,top,1,"Greene,Elijah",flied out,1,0,0,0,0,2
+Cal-Poly,3,top,2,"Beesley,Bradlee",flied out,1,0,0,0,0,2
+Cal-Poly,3,top,3,"Samuelson,Tate",popped up,1,0,0,0,0,2
+UC-Davis,3,bottom,1,"Kelly,Garret",grounded out,0,0,0,0,0,2
+UC-Davis,3,bottom,1,"Murray,Tanner",singled,1,0,0,0,0,2
+UC-Davis,3,bottom,1,"Murray,Tanner",stole,1,1,0,0,0,2
+UC-Davis,3,bottom,1,"Morrison,Cooper",singled,1,0,1,0,0,2
+UC-Davis,3,bottom,3,"Denholm,Logan",grounded into double play 3b,1,0,1,0,0,2
+Cal-Poly,4,top,1,"Sands,Conagher",flied out,0,0,0,0,0,2
+Cal-Poly,4,top,1,"DiCarlo,Nick",hit by pitch.,1,0,0,0,0,2
+Cal-Poly,4,top,1,"DiCarlo,Nick",advanced on wild pitch,0,1,0,0,0,2
+Cal-Poly,4,top,1,"Cabrera,Cole",hit by pitch.,1,1,0,0,0,2
+Cal-Poly,4,top,1,"Kuzma,Jack",doubled,0,1,1,1,0,3
+Cal-Poly,4,top,2,"Emmerson,Myles",grounded out,0,1,1,0,0,3
+Cal-Poly,4,top,2,"Gurnik,Connor",singled,1,1,1,2,0,5
+Cal-Poly,4,top,3,"Greene,Elijah",grounded out,1,1,1,0,0,5
+UC-Davis,4,bottom,0,"VanBlake,Caleb",singled,1,0,0,0,0,5
+UC-Davis,4,bottom,1,"Myers,Joseph",grounded out,0,1,0,0,0,5
+UC-Davis,4,bottom,1,"Lara,Alejandro",singled,1,1,0,1,1,5
+UC-Davis,4,bottom,2,"Smith,Jalen",grounded out,0,1,0,0,1,5
+UC-Davis,4,bottom,3,"Evans,Colton",out at first 1b,0,1,0,0,1,5
+Cal-Poly,5,top,0,"Beesley,Bradlee",singled,1,0,0,0,1,5
+Cal-Poly,5,top,1,"Samuelson,Tate",flied out,1,0,0,0,1,5
+Cal-Poly,5,top,1,"Sands,Conagher",doubled,0,1,1,0,1,5
+Cal-Poly,5,top,2,"DiCarlo,Nick",grounded out,0,1,1,0,1,5
+Cal-Poly,5,top,3,"Cabrera,Cole",struck out swinging.,0,1,1,0,1,5
+UC-Davis,5,bottom,1,"Kelly,Garret",struck out swinging.,0,0,0,0,1,5
+UC-Davis,5,bottom,1,"Murray,Tanner",singled,1,0,0,0,1,5
+UC-Davis,5,bottom,2,"Morrison,Cooper",flied out,1,0,0,0,1,5
+UC-Davis,5,bottom,3,"Denholm,Logan",flied out,1,0,0,0,1,5
+Cal-Poly,6,top,2,"Kuzma,Jack",swinging,0,0,0,0,1,5
+Cal-Poly,6,top,2,"Emmerson,Myles",singled,1,0,0,0,1,5
+Cal-Poly,6,top,2,,*hit off pitcher.,1,0,0,0,1,5
+Cal-Poly,6,top,3,"Gurnik,Connor",flied out,1,0,0,0,1,5
+UC-Davis,6,bottom,1,"Greene,Elijah",flied out,0,0,0,0,1,5
+UC-Davis,6,bottom,2,"VanBlake,Caleb",grounded out,0,0,0,0,1,5
+UC-Davis,6,bottom,3,"Myers,Joseph",grounded out,0,0,0,0,1,5
+Cal-Poly,7,top,1,"Lara,Alejandro",struck out looking.,0,0,0,0,1,5
+Cal-Poly,7,top,2,"Beesley,Bradlee",popped up,0,0,0,0,1,5
+Cal-Poly,7,top,2,"Samuelson,Tate",hit by pitch.,1,0,0,0,1,5
+Cal-Poly,7,top,3,"Sands,Conagher",flied out,1,0,0,0,1,5
+UC-Davis,7,bottom,0,"DiCarlo,Nick",Samuelson,1,1,0,0,1,5
+UC-Davis,7,bottom,0,"DiCarlo,Nick",advanced on wild pitch,0,1,1,0,1,5
+UC-Davis,7,bottom,1,"Cabrera,Cole",flied out,0,1,1,0,1,5
+UC-Davis,7,bottom,2,"Smith,Jalen",struck out swinging.,0,1,1,0,1,5
+UC-Davis,7,bottom,3,"Evans,Colton",out at first 1b,0,1,1,0,1,5
+Cal-Poly,8,top,1,"Kelly,Garret",fouled out,0,0,0,0,1,5
+Cal-Poly,8,top,2,"Kuzma,Jack",struck out swinging.,0,0,0,0,1,5
+Cal-Poly,8,top,3,"Emmerson,Myles",struck out looking.,0,0,0,0,1,5
+UC-Davis,8,bottom,1,"Gurnik,Connor",flied out,0,0,0,0,1,5
+UC-Davis,8,bottom,2,"Murray,Tanner",grounded out,0,0,0,0,1,5
+UC-Davis,8,bottom,3,"Morrison,Cooper",grounded out,0,0,0,0,1,5
+Cal-Poly,9,top,1,"Denholm,Logan",struck out swinging.,0,0,0,0,1,5
+Cal-Poly,9,top,2,"Greene,Elijah",flied out,0,0,0,0,1,5
+Cal-Poly,9,top,3,"Beesley,Bradlee",flied out,0,0,0,0,1,5
+UC-Davis,9,bottom,1,"Samuelson,Tate",grounded out,0,0,0,0,1,5
+UC-Davis,9,bottom,1,"Taylor,Noah",,0,0,0,0,1,5
+UC-Davis,9,bottom,2,"VanBlake,Caleb",out at first 1b,0,0,0,0,1,5
+UC-Davis,9,bottom,3,"Myers,Joseph",flied out,0,0,0,0,1,5
+Cal-Poly,10,top,0,"Lara,Alejandro",singled,1,0,0,0,1,5
+Cal-Poly,10,top,1,"Longrie,Conner",out at first 1b,1,0,0,0,1,5

@@ -1,0 +1,72 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,0,Gurnik,hit by pitch,1,0,0,0,0,0
+Cal-Poly,1,top,0,Greene,singled,1,1,0,0,0,0
+Cal-Poly,1,top,2,Beesley,hit into double play 1b,0,0,1,0,0,0
+Cal-Poly,1,top,3,Samuelson,struck out looking,0,0,1,0,0,0
+Baylor,1,bottom,1,Loftin,flied out,0,0,0,0,0,0
+Baylor,1,bottom,2,"Cunningham,R",swinging,0,0,0,0,0,0
+Baylor,1,bottom,2,"Cunningham,R",stole,0,1,0,0,0,0
+Baylor,1,bottom,3,Wendzel,struck out swinging,0,1,0,0,0,0
+Cal-Poly,2,top,1,Downey,struck out swinging,0,0,0,0,0,0
+Cal-Poly,2,top,1,Cabrera,walked,1,0,0,0,0,0
+Cal-Poly,2,top,2,DiCarlo,reached on a fielder's choice,1,0,0,0,0,0
+Cal-Poly,2,top,3,Wagenseller,flied out,1,0,0,0,0,0
+Baylor,2,bottom,0,Emmerson,walked,1,1,0,0,0,0
+Baylor,2,bottom,1,Doherty,struck out swinging,1,1,0,0,0,0
+Baylor,2,bottom,2,Langeliers,flied out,1,1,0,0,0,0
+Baylor,2,bottom,3,"Thomas,A.",flied out,1,1,0,0,0,0
+Cal-Poly,3,top,1,Bissonette,grounded out,0,0,0,0,0,0
+Cal-Poly,3,top,2,Gurnik,flied out,0,0,0,0,0,0
+Cal-Poly,3,top,3,Greene,grounded out,0,0,0,0,0,0
+Baylor,3,bottom,1,Beesley,grounded out,0,0,0,0,0,0
+Baylor,3,bottom,2,Haring,fouled out,0,0,0,0,0,0
+Baylor,3,bottom,3,Wehsener,fouled out,0,0,0,0,0,0
+Cal-Poly,4,top,1,Loftin,popped up,0,0,0,0,0,0
+Cal-Poly,4,top,2,Samuelson,flied out,0,0,0,0,0,0
+Cal-Poly,4,top,3,Cabrera,popped up,0,0,0,0,0,0
+Baylor,4,bottom,1,DiCarlo,out at first p,0,0,0,0,0,0
+Baylor,4,bottom,1,"Cunningham,R",walked,1,0,0,0,0,0
+Baylor,4,bottom,2,Wendzel,flied out,1,0,0,0,0,0
+Baylor,4,bottom,3,Downey,flied out,1,0,0,0,0,0
+Cal-Poly,5,top,0,Langeliers,doubled,0,1,0,1,0,1
+Cal-Poly,5,top,0,"Thomas,A.",doubled,0,1,0,1,0,2
+Cal-Poly,5,top,1,Bissonette,struck out looking,0,1,0,0,0,2
+Cal-Poly,5,top,2,Wagenseller,struck out swinging,0,1,0,0,0,2
+Cal-Poly,5,top,3,Emmerson,grounded out,0,1,0,0,0,2
+Baylor,5,bottom,1,Doherty,struck out swinging,0,0,0,0,0,2
+Baylor,5,bottom,2,Haring,struck out swinging,0,0,0,0,0,2
+Baylor,5,bottom,3,Wehsener,struck out looking,0,0,0,0,0,2
+Cal-Poly,6,top,0,Loftin,hit by pitch,1,0,0,0,0,2
+Cal-Poly,6,top,1,"Cunningham,R",grounded out,1,0,0,0,0,2
+Cal-Poly,6,top,2,Gurnik,grounded out,1,0,0,0,0,2
+Cal-Poly,6,top,3,Greene,struck out looking,1,0,0,0,0,2
+Baylor,6,bottom,1,Beesley,popped up,0,0,0,0,0,2
+Baylor,6,bottom,1,Wendzel,walked,1,0,0,0,0,2
+Baylor,6,bottom,1,Wendzel,stole,1,1,0,0,0,2
+Baylor,6,bottom,2,Downey,struck out swinging,1,1,0,0,0,2
+Baylor,6,bottom,2,Langeliers,walked,1,1,0,0,0,2
+Baylor,6,bottom,3,"Thomas,A.",struck out swinging,1,1,1,0,0,2
+Cal-Poly,7,top,1,Bissonette,popped up,0,0,0,0,0,2
+Cal-Poly,7,top,2,Samuelson,lined out,0,0,0,0,0,2
+Cal-Poly,7,top,3,Cabrera,fouled out,0,0,0,0,0,2
+Baylor,7,bottom,1,DiCarlo,flied out,0,0,0,0,0,2
+Baylor,7,bottom,2,Haring,grounded out,0,0,0,0,0,2
+Baylor,7,bottom,3,Wehsener,grounded out,0,0,0,0,0,2
+Cal-Poly,8,top,1,Play,reviewed and ruling of out upheld.,0,0,0,0,0,2
+Cal-Poly,8,top,2,Loftin,grounded out,0,0,0,0,0,2
+Cal-Poly,8,top,3,Taylor,struck out swinging,0,0,0,0,0,2
+Baylor,8,bottom,0,Emmerson,doubled,0,1,0,0,0,2
+Baylor,8,bottom,1,Cano,struck out looking,0,1,0,0,0,2
+Baylor,8,bottom,2,Gurnik,struck out swinging,0,1,0,0,0,2
+Baylor,8,bottom,2,Cano,,0,1,0,0,0,2
+Baylor,8,bottom,2,Gurnik,,0,1,0,0,0,2
+Baylor,8,bottom,2,Cano,,0,1,0,0,0,2
+Baylor,8,bottom,3,"Cunningham,R",flied out,0,1,0,0,0,2
+Cal-Poly,9,top,0,Wendzel,singled,1,0,0,0,0,2
+Cal-Poly,9,top,0,Downey,walked,1,0,0,0,0,2
+Cal-Poly,9,top,0,Langeliers,ss,0,1,0,1,0,3
+Cal-Poly,9,top,1,"Thomas,A.",struck out looking,0,1,0,0,0,3
+Cal-Poly,9,top,2,Bissonette,out at first 1b,0,1,0,0,0,3
+Cal-Poly,9,top,3,Greene,struck out swinging,0,1,0,0,0,3
+Baylor,9,bottom,1,Beesley,struck out swinging,0,0,0,0,0,3
+Baylor,9,bottom,2,Samuelson,flied out,0,0,0,0,0,3

@@ -1,0 +1,86 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+CSUN,1,top,1,Bullard,grounded out,0,0,0,0,0,0
+CSUN,1,top,1,Bohning,walked,1,0,0,0,0,0
+CSUN,1,top,1,Barret,singled,1,1,0,0,0,0
+CSUN,1,top,4,Elder,reached on a fielder's choice,1,1,0,0,0,0
+Cal-Poly,1,bottom,0,Gurnik,singled,1,0,0,0,0,0
+Cal-Poly,1,bottom,2,Greene,grounded into double play 2b,1,0,0,0,0,0
+Cal-Poly,1,bottom,3,Beesley,flied out,1,0,0,0,0,0
+CSUN,2,top,1,Ghan-Gibson,flied out,0,0,0,0,0,0
+CSUN,2,top,2,Doremus,flied out,0,0,0,0,0,0
+CSUN,2,top,2,Lucas,singled,1,0,0,0,0,0
+CSUN,2,top,2,Ruiz,hit by pitch,1,1,0,0,0,0
+CSUN,2,top,3,Clarke,flied out,1,1,0,0,0,0
+Cal-Poly,2,bottom,1,Samuelson,flied out,0,0,0,0,0,0
+Cal-Poly,2,bottom,1,Taylor,singled,1,0,0,0,0,0
+Cal-Poly,2,bottom,2,DiCarlo,flied out,1,0,0,0,0,0
+Cal-Poly,2,bottom,2,Sands,hit by pitch,1,1,0,0,0,0
+Cal-Poly,2,bottom,3,Emmerson,grounded out,1,1,0,0,0,0
+CSUN,3,top,1,Bullard,out at first p,0,0,0,0,0,0
+CSUN,3,top,2,Bohning,grounded out,0,0,0,0,0,0
+CSUN,3,top,2,Barret,walked,1,0,0,0,0,0
+CSUN,3,top,3,Elder,flied out,1,0,0,0,0,0
+Cal-Poly,3,bottom,1,Doherty,flied out,0,0,0,0,0,0
+Cal-Poly,3,bottom,1,Gurnik,doubled,0,1,0,0,0,0
+Cal-Poly,3,bottom,1,Greene,singled,1,0,1,0,0,0
+Cal-Poly,3,bottom,2,Beesley,struck out looking,1,0,1,0,0,0
+Cal-Poly,3,bottom,2,Samuelson,singled,1,1,0,1,1,0
+Cal-Poly,3,bottom,2,Taylor,singled,1,1,0,1,2,0
+Cal-Poly,3,bottom,3,DiCarlo,grounded out,1,1,0,0,2,0
+CSUN,4,top,0,Ghan-Gibson,hit by pitch,1,0,0,0,2,0
+CSUN,4,top,1,Doremus,struck out swinging,1,0,0,0,2,0
+CSUN,4,top,2,Lucas,flied out,1,0,0,0,2,0
+CSUN,4,top,2,Ruiz,singled,1,1,0,0,2,0
+CSUN,4,top,2,Clarke,p,0,1,1,0,2,0
+CSUN,4,top,3,Bullard,grounded out,0,1,1,0,2,0
+Cal-Poly,4,bottom,1,Sands,lined out,0,0,0,0,2,0
+Cal-Poly,4,bottom,1,Emmerson,singled,1,0,0,0,2,0
+Cal-Poly,4,bottom,2,Doherty,flied out,1,0,0,0,2,0
+Cal-Poly,4,bottom,2,Gurnik,singled,1,1,0,0,2,0
+Cal-Poly,4,bottom,3,Greene,reached on a fielder's choice,1,1,0,0,2,0
+CSUN,5,top,1,Bohning,flied out,0,0,0,0,2,0
+CSUN,5,top,2,Barret,grounded out,0,0,0,0,2,0
+CSUN,5,top,3,Elder,struck out swinging,0,0,0,0,2,0
+Cal-Poly,5,bottom,1,Beesley,flied out,0,0,0,0,2,0
+Cal-Poly,5,bottom,2,Samuelson,grounded out,0,0,0,0,2,0
+Cal-Poly,5,bottom,3,Taylor,grounded out,0,0,0,0,2,0
+CSUN,6,top,1,Ghan-Gibson,flied out,0,0,0,0,2,0
+CSUN,6,top,1,Doremus,doubled,0,1,0,0,2,0
+CSUN,6,top,1,Palmegiani,pinch ran for Doremus.,0,1,0,0,2,0
+CSUN,6,top,2,Lucas,reached on a fielder's choice,0,1,0,0,2,0
+CSUN,6,top,3,Ruiz,flied out,0,1,0,0,2,0
+Cal-Poly,6,bottom,0,DiCarlo,walked,1,0,0,0,2,0
+Cal-Poly,6,bottom,0,DiCarlo,stole,1,1,0,0,2,0
+Cal-Poly,6,bottom,1,Sands,flied out,1,1,0,0,2,0
+Cal-Poly,6,bottom,2,Emmerson,grounded out,0,0,1,0,2,0
+Cal-Poly,6,bottom,2,Doherty,singled,1,0,1,1,3,0
+Cal-Poly,6,bottom,2,Doherty,advanced on wild pitch,0,1,0,0,3,0
+Cal-Poly,6,bottom,3,Gurnik,grounded out,0,1,0,0,3,0
+CSUN,7,top,0,Clarke,walked,1,0,0,0,3,0
+CSUN,7,top,0,Bullard,tripled,1,0,1,1,3,1
+CSUN,7,top,1,Bohning,grounded out,1,0,1,1,3,2
+CSUN,7,top,1,Barret,doubled,1,1,1,0,3,2
+CSUN,7,top,2,Elder,grounded out,0,0,1,0,3,2
+CSUN,7,top,3,Ghan-Gibson,grounded out,0,0,1,0,3,2
+Cal-Poly,7,bottom,0,Cerny,,0,0,0,0,3,2
+Cal-Poly,7,bottom,1,Greene,flied out,0,0,0,0,3,2
+Cal-Poly,7,bottom,1,Beesley,walked,1,0,0,0,3,2
+Cal-Poly,7,bottom,1,Samuelson,singled,1,0,1,0,3,2
+Cal-Poly,7,bottom,1,Taylor,singled,1,1,0,1,4,2
+Cal-Poly,7,bottom,3,DiCarlo,lined into double play cf,1,1,0,0,4,2
+CSUN,8,top,0,Cabrera,,0,0,0,0,4,2
+CSUN,8,top,0,Taylor,,0,0,0,0,4,2
+CSUN,8,top,1,Palmegiani,grounded out,0,0,0,0,4,2
+CSUN,8,top,2,Lucas,grounded out,0,0,0,0,4,2
+CSUN,8,top,2,Ruiz,singled,1,0,0,0,4,2
+CSUN,8,top,3,Skelly,grounded out,1,0,0,0,4,2
+Cal-Poly,8,bottom,0,Hamm,,0,0,0,0,4,2
+Cal-Poly,8,bottom,1,Sands,struck out swinging,0,0,0,0,4,2
+Cal-Poly,8,bottom,2,Emmerson,struck out swinging,0,0,0,0,4,2
+Cal-Poly,8,bottom,3,Doherty,lined out,0,0,0,0,4,2
+CSUN,9,top,0,Bullard,walked,1,0,0,0,4,2
+CSUN,9,top,0,Bullard,advanced on wild pitch,0,1,0,0,4,2
+CSUN,9,top,1,Bohning,flied out,0,1,0,0,4,2
+CSUN,9,top,1,Barret,reached on a fielding error by 3b,0,1,0,0,4,2
+CSUN,9,top,2,Cerny,struck out swinging,0,1,0,0,4,2
+CSUN,9,top,3,Ghan-Gibson,flied out,0,1,0,0,4,2

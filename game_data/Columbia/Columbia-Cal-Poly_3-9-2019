@@ -1,0 +1,113 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Columbia,1,top,1,Porter,struck out swinging,0,0,0,0,0,0
+Columbia,1,top,2,Bury,grounded out,0,0,0,0,0,0
+Columbia,1,top,2,Cerfolio,singled,1,0,0,0,0,0
+Columbia,1,top,3,McGill,reached on a fielder's choice,1,0,0,0,0,0
+Cal-Poly,1,bottom,2,Gurnik,swinging,0,0,0,0,0,0
+Cal-Poly,1,bottom,3,Greene,struck out swinging,0,0,0,0,0,0
+Columbia,2,top,1,Beesley,struck out swinging,0,0,0,0,0,0
+Columbia,2,top,1,Engel,walked,1,0,0,0,0,0
+Columbia,2,top,2,Chernow,flied out,1,0,0,0,0,0
+Columbia,2,top,4,Nicoloff,grounded into double play 1b,1,0,0,0,0,0
+Cal-Poly,2,bottom,0,Samuelson,walked,1,0,0,0,0,0
+Cal-Poly,2,bottom,1,Cabrera,flied out,1,0,0,0,0,0
+Cal-Poly,2,bottom,2,Wagenseller,struck out swinging,1,0,0,0,0,0
+Cal-Poly,2,bottom,2,Samuelson,advanced on wild pitch,0,1,0,0,0,0
+Cal-Poly,2,bottom,2,DiCarlo,walked,1,1,0,0,0,0
+Cal-Poly,2,bottom,2,Emmerson,walked,1,1,1,0,0,0
+Cal-Poly,2,bottom,3,Doherty,struck out swinging,1,1,1,0,0,0
+Columbia,3,top,1,DiFillipo,flied out,0,0,0,0,0,0
+Columbia,3,top,1,Phelps,walked,1,0,0,0,0,0
+Columbia,3,top,3,Porter,grounded into double play ss,1,0,0,0,0,0
+Cal-Poly,3,bottom,1,Gurnik,struck out looking,0,0,0,0,0,0
+Cal-Poly,3,bottom,1,Greene,singled,1,0,0,0,0,0
+Cal-Poly,3,bottom,2,Greene,out at second c,1,0,0,0,0,0
+Cal-Poly,3,bottom,2,Beesley,walked,1,0,0,0,0,0
+Cal-Poly,3,bottom,2,Beesley,stole,1,1,0,0,0,0
+Cal-Poly,3,bottom,2,Samuelson,walked,1,1,0,0,0,0
+Cal-Poly,3,bottom,3,Cabrera,flied out,1,1,0,0,0,0
+Columbia,4,top,1,Bury,grounded out,0,0,0,0,0,0
+Columbia,4,top,1,Cerfolio,singled,1,0,0,0,0,0
+Columbia,4,top,1,Cerfolio,advanced on wild pitch,0,0,0,0,0,0
+Columbia,4,top,2,McGill,fouled out,0,0,0,0,0,0
+Columbia,4,top,3,Engel,struck out swinging,0,0,0,0,0,0
+Cal-Poly,4,bottom,1,Wagenseller,lined out,0,0,0,0,0,0
+Cal-Poly,4,bottom,2,DiCarlo,struck out looking,0,0,0,0,0,0
+Cal-Poly,4,bottom,3,Emmerson,grounded out,0,0,0,0,0,0
+Columbia,5,top,1,Chernow,struck out swinging,0,0,0,0,0,0
+Columbia,5,top,1,Nicoloff,singled,1,0,0,0,0,0
+Columbia,5,top,1,DiFillipo,doubled,1,1,0,1,0,1
+Columbia,5,top,2,Phelps,flied out,1,1,0,0,0,1
+Columbia,5,top,3,Porter,struck out looking,1,1,0,0,0,1
+Cal-Poly,5,bottom,0,Doherty,walked,1,0,0,0,0,1
+Cal-Poly,5,bottom,1,Gurnik,reached on a fielder's choice,1,0,0,0,0,1
+Cal-Poly,5,bottom,1,Gurnik,advanced on wild pitch,0,1,0,0,0,1
+Cal-Poly,5,bottom,2,Greene,grounded out,0,0,1,0,0,1
+Cal-Poly,5,bottom,3,Beesley,lined out,0,0,1,0,0,1
+Columbia,6,top,1,Bury,out at first 1b,0,0,0,0,0,1
+Columbia,6,top,2,Cerfolio,grounded out,0,0,0,0,0,1
+Columbia,6,top,2,McGill,singled,1,0,0,0,0,1
+Columbia,6,top,3,Engel,struck out looking,1,0,0,0,0,1
+Cal-Poly,6,bottom,1,Samuelson,struck out swinging,0,0,0,0,0,1
+Cal-Poly,6,bottom,1,Cabrera,singled,1,0,0,0,0,1
+Cal-Poly,6,bottom,1,Wagenseller,singled,1,0,1,0,0,1
+Cal-Poly,6,bottom,1,DiCarlo,walked,1,1,0,0,0,1
+Cal-Poly,6,bottom,1,Emmerson,walked,1,1,1,1,1,1
+Cal-Poly,6,bottom,2,Doherty,struck out swinging,1,1,1,0,1,1
+Cal-Poly,6,bottom,3,Gurnik,flied out,1,1,1,0,1,1
+Columbia,7,top,1,Chernow,grounded out,0,0,0,0,1,1
+Columbia,7,top,2,Nicoloff,grounded out,0,0,0,0,1,1
+Columbia,7,top,3,DiFillipo,grounded out,0,0,0,0,1,1
+Cal-Poly,7,bottom,0,Greene,singled,1,0,0,0,1,1
+Cal-Poly,7,bottom,1,Beesley,flied out,1,0,0,0,1,1
+Cal-Poly,7,bottom,2,Samuelson,singled,1,0,1,0,1,1
+Cal-Poly,7,bottom,3,Cabrera,lined out,1,0,1,0,1,1
+Columbia,8,top,0,Phelps,hit by pitch,1,0,0,0,1,1
+Columbia,8,top,0,Mowrey,pinch ran for Phelps.,1,0,0,0,1,1
+Columbia,8,top,1,Mowrey,out at first p,1,0,0,0,1,1
+Columbia,8,top,2,Porter,struck out looking,1,0,0,0,1,1
+Columbia,8,top,2,Bury,walked,1,0,0,0,1,1
+Columbia,8,top,2,Cerfolio,walked,1,1,0,0,1,1
+Columbia,8,top,3,McGill,grounded out,1,1,0,0,1,1
+Cal-Poly,8,bottom,1,Wagenseller,grounded out,0,0,0,0,1,1
+Cal-Poly,8,bottom,2,DiCarlo,fouled out,0,0,0,0,1,1
+Cal-Poly,8,bottom,3,Emmerson,grounded out,0,0,0,0,1,1
+Columbia,9,top,1,Engel,flied out,0,0,0,0,1,1
+Columbia,9,top,2,Chernow,flied out,0,0,0,0,1,1
+Columbia,9,top,3,Nicoloff,struck out swinging,0,0,0,0,1,1
+Cal-Poly,9,bottom,0,Taylor,doubled,0,1,0,0,1,1
+Cal-Poly,9,bottom,1,Gurnik,out at first 1b,0,0,1,0,1,1
+Cal-Poly,9,bottom,2,Greene,fouled out,0,0,1,0,1,1
+Cal-Poly,9,bottom,2,Beesley,intentionally walked.,1,0,1,0,1,1
+Cal-Poly,9,bottom,2,Beesley,advanced on wild pitch,0,0,0,0,1,1
+Cal-Poly,9,bottom,3,Samuelson,grounded out,0,0,0,0,1,1
+Columbia,10,top,0,Gurnik,,0,0,0,0,1,1
+Columbia,10,top,0,Cano,,0,0,0,0,1,1
+Columbia,10,top,0,DiFillipo,walked,1,0,0,0,1,1
+Columbia,10,top,0,Mowrey,reached on a fielder's choice,0,0,0,0,1,1
+Columbia,10,top,1,Porter,out at first c,0,1,1,0,1,1
+Columbia,10,top,2,Bury,reached on a fielder's choice,0,0,1,0,1,1
+Columbia,10,top,2,Cerfolio,walked,1,1,0,0,1,1
+Columbia,10,top,3,Mowrey,out at home c,1,1,0,0,1,1
+Cal-Poly,10,bottom,1,Mowrey,tried,0,0,0,0,1,1
+Cal-Poly,10,bottom,2,Cabrera,struck out looking,0,0,0,0,1,1
+Cal-Poly,10,bottom,2,Wagenseller,hit by pitch,1,0,0,0,1,1
+Cal-Poly,10,bottom,3,DiCarlo,struck out swinging,1,0,0,0,1,1
+Columbia,11,top,1,Emmerson,flied out,0,0,0,0,1,1
+Columbia,11,top,1,McGill,singled,1,0,0,0,1,1
+Columbia,11,top,2,Engel,grounded out,0,1,0,0,1,1
+Columbia,11,top,3,Chernow,grounded out,0,0,1,0,1,1
+Cal-Poly,11,bottom,1,Nicoloff,grounded out,0,0,0,0,1,1
+Cal-Poly,11,bottom,2,Cano,grounded out,0,0,0,0,1,1
+Cal-Poly,11,bottom,3,Gurnik,struck out looking,0,0,0,0,1,1
+Columbia,12,top,0,Gurnik,pitch,1,0,0,0,1,1
+Columbia,12,top,0,Greene,walked,1,0,0,0,1,1
+Columbia,12,top,1,Beesley,flied out,1,0,0,0,1,1
+Columbia,12,top,2,DiFillipo,grounded out,1,0,0,0,1,1
+Columbia,12,top,2,Mowrey,walked,1,0,0,0,1,1
+Columbia,12,top,3,Porter,reached on a fielder's choice,1,0,0,0,1,1
+Cal-Poly,12,bottom,1,Bury,grounded out,0,0,0,0,1,1
+Cal-Poly,12,bottom,1,Samuelson,singled,1,0,0,0,1,1
+Cal-Poly,12,bottom,2,Cabrera,grounded out,0,1,0,0,1,1
+Cal-Poly,12,bottom,2,Wagenseller,reached on a throwing error by 2b,0,0,1,0,1,1
+Cal-Poly,12,bottom,2,DiCarlo,reached on a fielder's choice,0,1,0,1,2,1

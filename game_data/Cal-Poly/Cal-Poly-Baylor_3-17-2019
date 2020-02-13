@@ -1,0 +1,106 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,Cabrera,struck out looking,0,0,0,0,0,0
+Cal-Poly,1,top,2,Greene,struck out swinging,0,0,0,0,0,0
+Cal-Poly,1,top,3,Beesley,flied out,0,0,0,0,0,0
+Baylor,1,bottom,1,Loftin,popped up,0,0,0,0,0,0
+Baylor,1,bottom,2,"Cunningham,R",struck out looking,0,0,0,0,0,0
+Baylor,1,bottom,2,Wendzel,singled,1,0,0,0,0,0
+Baylor,1,bottom,2,"Thomas,A.",doubled,0,1,1,0,0,0
+Baylor,1,bottom,3,Langeliers,flied out,0,1,1,0,0,0
+Cal-Poly,2,top,0,Samuelson,singled,1,0,0,0,0,0
+Cal-Poly,2,top,0,DiCarlo,walked,1,1,0,0,0,0
+Cal-Poly,2,top,1,Taylor,out at first 3b,0,1,1,0,0,0
+Cal-Poly,2,top,2,Gurnik,struck out swinging,0,1,1,0,0,0
+Cal-Poly,2,top,2,Emmerson,singled,1,0,1,1,0,1
+Cal-Poly,2,top,3,Cano,reached on a fielder's choice,1,0,1,0,0,1
+Baylor,2,bottom,1,Downey,popped up,0,0,0,0,0,1
+Baylor,2,bottom,2,Haring,flied out,0,0,0,0,0,1
+Baylor,2,bottom,2,Bissonette,doubled,0,1,0,0,0,1
+Baylor,2,bottom,3,Wehsener,grounded out,0,1,0,0,0,1
+Cal-Poly,3,top,0,Cabrera,singled,1,0,0,0,0,1
+Cal-Poly,3,top,0,Greene,walked,1,1,0,0,0,1
+Cal-Poly,3,top,1,Beesley,grounded out,0,1,1,0,0,1
+Cal-Poly,3,top,2,Samuelson,fouled out,0,1,1,0,0,1
+Cal-Poly,3,top,3,DiCarlo,flied out,0,1,1,0,0,1
+Baylor,3,bottom,0,Loftin,hit by pitch,1,0,0,0,0,1
+Baylor,3,bottom,0,Loftin,advanced on wild pitch,0,0,0,0,0,1
+Baylor,3,bottom,1,"Cunningham,R",flied out,0,0,0,0,0,1
+Baylor,3,bottom,1,Wendzel,singled,1,0,0,1,1,1
+Baylor,3,bottom,1,"Thomas,A.",doubled,0,1,1,0,1,1
+Baylor,3,bottom,2,Langeliers,flied out,0,1,1,0,1,1
+Baylor,3,bottom,2,Downey,singled,1,1,1,2,3,1
+Baylor,3,bottom,2,Haring,homered,1,1,1,2,5,1
+Baylor,3,bottom,3,Bissonette,flied out,1,1,1,0,5,1
+Cal-Poly,4,top,1,Taylor,grounded out,0,0,0,0,5,1
+Cal-Poly,4,top,2,Gurnik,fouled out,0,0,0,0,5,1
+Cal-Poly,4,top,3,Emmerson,grounded out,0,0,0,0,5,1
+Baylor,4,bottom,1,Wehsener,grounded out,0,0,0,0,5,1
+Baylor,4,bottom,1,Loftin,singled,1,0,0,0,5,1
+Baylor,4,bottom,1,"Cunningham,R",singled,1,1,0,0,5,1
+Baylor,4,bottom,1,Wendzel,homered,1,1,0,3,8,1
+Baylor,4,bottom,1,"Thomas,A.",doubled,1,1,0,0,8,1
+Baylor,4,bottom,2,Langeliers,popped up,1,1,0,0,8,1
+Baylor,4,bottom,3,Downey,flied out,1,1,0,0,8,1
+Cal-Poly,5,top,1,Cano,flied out,0,0,0,0,8,1
+Cal-Poly,5,top,2,Cabrera,flied out,0,0,0,0,8,1
+Cal-Poly,5,top,2,Greene,walked,1,0,0,0,8,1
+Cal-Poly,5,top,3,Beesley,grounded out,1,0,0,0,8,1
+Baylor,5,bottom,0,Gurnik,,0,0,0,0,8,1
+Baylor,5,bottom,0,Doherty,,0,0,0,0,8,1
+Baylor,5,bottom,1,Haring,grounded out,0,0,0,0,8,1
+Baylor,5,bottom,2,Bissonette,grounded out,0,0,0,0,8,1
+Baylor,5,bottom,3,Wehsener,grounded out,0,0,0,0,8,1
+Cal-Poly,6,top,1,Samuelson,flied out,0,0,0,0,8,1
+Cal-Poly,6,top,1,DiCarlo,walked,1,0,0,0,8,1
+Cal-Poly,6,top,1,Taylor,singled,1,1,0,0,8,1
+Cal-Poly,6,top,3,Gurnik,grounded into double play ss,1,1,0,0,8,1
+Baylor,6,bottom,0,Loftin,homered,0,0,0,1,9,1
+Baylor,6,bottom,0,"Cunningham,R",singled,0,0,0,0,9,1
+Baylor,6,bottom,1,Wendzel,flied out,0,0,1,0,9,1
+Baylor,6,bottom,1,"Thomas,A.",doubled,0,1,1,1,10,1
+Baylor,6,bottom,1,Langeliers,singled,1,1,1,1,11,1
+Baylor,6,bottom,1,Downey,doubled,0,1,1,0,11,1
+Baylor,6,bottom,2,Haring,fouled out,0,1,1,0,11,1
+Baylor,6,bottom,2,Bissonette,tripled,0,1,1,2,13,1
+Baylor,6,bottom,2,Wehsener,singled,1,1,1,1,14,1
+Baylor,6,bottom,2,Wehsener,advanced on wild pitch,0,1,0,0,14,1
+Baylor,6,bottom,3,Loftin,flied out,0,1,0,0,14,1
+Cal-Poly,7,top,1,Emmerson,fouled out,0,0,0,0,14,1
+Cal-Poly,7,top,2,Doherty,grounded out,0,0,0,0,14,1
+Cal-Poly,7,top,2,Cabrera,walked,1,0,0,0,14,1
+Cal-Poly,7,top,3,Wagenseller,fouled out,1,0,0,0,14,1
+Baylor,7,bottom,0,Wagenseller,,0,0,0,0,14,1
+Baylor,7,bottom,0,Mackay,,0,0,0,0,14,1
+Baylor,7,bottom,0,"Cunningham,R",singled,1,0,0,0,14,1
+Baylor,7,bottom,1,Wendzel,flied out,1,0,0,0,14,1
+Baylor,7,bottom,1,"Thomas,A.",singled,1,1,0,0,14,1
+Baylor,7,bottom,2,Langeliers,flied out,1,1,0,0,14,1
+Baylor,7,bottom,3,Mueller,struck out looking,1,1,0,0,14,1
+Cal-Poly,8,top,0,Mueller,,0,0,0,0,14,1
+Cal-Poly,8,top,0,Haring,,0,0,0,0,14,1
+Cal-Poly,8,top,1,Beesley,flied out,0,0,0,0,14,1
+Cal-Poly,8,top,1,Samuelson,singled,1,0,0,0,14,1
+Cal-Poly,8,top,2,Esperanza,struck out swinging,1,0,0,0,14,1
+Cal-Poly,8,top,3,Taylor,reached on a fielder's choice,1,0,0,0,14,1
+Baylor,8,bottom,0,Samuelson,,0,0,0,0,14,1
+Baylor,8,bottom,0,Sands,,0,0,0,0,14,1
+Baylor,8,bottom,0,Kuzma,,0,0,0,0,14,1
+Baylor,8,bottom,0,Seay,singled,1,0,0,0,14,1
+Baylor,8,bottom,1,Bissonette,flied out,1,0,0,0,14,1
+Baylor,8,bottom,2,Helmer,struck out swinging,1,0,0,0,14,1
+Baylor,8,bottom,2,Loftin,singled,1,1,0,0,14,1
+Baylor,8,bottom,3,Harper,struck out swinging,1,1,0,0,14,1
+Cal-Poly,9,top,0,Loftin,,0,0,0,0,14,1
+Cal-Poly,9,top,0,Harper,,0,0,0,0,14,1
+Cal-Poly,9,top,0,Wendzel,,0,0,0,0,14,1
+Cal-Poly,9,top,0,Mueller,,0,0,0,0,14,1
+Cal-Poly,9,top,0,Seay,,0,0,0,0,14,1
+Cal-Poly,9,top,0,Helmer,,0,0,0,0,14,1
+Cal-Poly,9,top,0,"Weaver,C.",,0,0,0,0,14,1
+Cal-Poly,9,top,0,,/ for Needham.,0,0,0,0,14,1
+Cal-Poly,9,top,0,Kuzma,singled,1,0,0,0,14,1
+Cal-Poly,9,top,0,Mackay,doubled,1,1,0,1,14,2
+Cal-Poly,9,top,0,Mackay,advanced on wild pitch,0,0,1,0,14,2
+Cal-Poly,9,top,1,Doherty,struck out swinging,0,0,1,0,14,2
+Cal-Poly,9,top,2,Cabrera,flied out,0,0,1,1,14,3
+Cal-Poly,9,top,3,Wagenseller,flied out,0,0,1,0,14,3

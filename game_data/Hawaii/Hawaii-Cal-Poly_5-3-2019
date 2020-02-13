@@ -1,0 +1,96 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Hawaii,1,top,1,"Scott,S.",fouled out,0,0,0,0,0,0
+Hawaii,1,top,2,"Kennelly,J.",struck out swinging,0,0,0,0,0,0
+Hawaii,1,top,3,"Yamazaki,M.",flied out,0,0,0,0,0,0
+Cal-Poly,1,bottom,1,Gurnik,struck out swinging,0,0,0,0,0,0
+Cal-Poly,1,bottom,2,Greene,grounded out,0,0,0,0,0,0
+Cal-Poly,1,bottom,3,Beesley,grounded out,0,0,0,0,0,0
+Hawaii,2,top,0,"Lopez,E.",doubled,0,1,0,0,0,0
+Hawaii,2,top,1,"Baeza,A.",out at first 1b,0,0,1,0,0,0
+Hawaii,2,top,2,"Calicdan,D.",struck out swinging,0,0,1,0,0,0
+Hawaii,2,top,2,"Duarte,D.",walked,1,0,1,0,0,0
+Hawaii,2,top,3,"Murray,T.",struck out swinging,1,0,1,0,0,0
+Cal-Poly,2,bottom,1,Samuelson,struck out looking,0,0,0,0,0,0
+Cal-Poly,2,bottom,1,Sands,singled,1,0,0,0,0,0
+Cal-Poly,2,bottom,1,Sands,advanced on wild pitch,0,1,0,0,0,0
+Cal-Poly,2,bottom,2,DiCarlo,lined out,0,1,0,0,0,0
+Cal-Poly,2,bottom,2,Emmerson,singled,1,1,0,1,1,0
+Cal-Poly,2,bottom,3,Taylor,struck out swinging,1,1,0,0,1,0
+Hawaii,3,top,1,"Best,T.",struck out swinging,0,0,0,0,1,0
+Hawaii,3,top,2,"Scott,S.",out at first p,0,0,0,0,1,0
+Hawaii,3,top,3,"Kennelly,J.",struck out swinging,0,0,0,0,1,0
+Cal-Poly,3,bottom,0,Kuzma,doubled,0,1,0,0,1,0
+Cal-Poly,3,bottom,1,Gurnik,grounded out,0,0,1,0,1,0
+Cal-Poly,3,bottom,2,Greene,grounded out,0,0,1,1,2,0
+Cal-Poly,3,bottom,3,Beesley,flied out,0,0,1,0,2,0
+Hawaii,4,top,1,"Yamazaki,M.",flied out,0,0,0,0,2,0
+Hawaii,4,top,2,"Lopez,E.",flied out,0,0,0,0,2,0
+Hawaii,4,top,3,"Baeza,A.",flied out,0,0,0,0,2,0
+Cal-Poly,4,bottom,0,Samuelson,doubled,0,1,0,0,2,0
+Cal-Poly,4,bottom,1,Sands,struck out swinging,0,1,0,0,2,0
+Cal-Poly,4,bottom,2,DiCarlo,grounded out,0,0,1,0,2,0
+Cal-Poly,4,bottom,2,Emmerson,singled,1,0,1,1,3,0
+Cal-Poly,4,bottom,3,Taylor,struck out swinging,1,0,1,0,3,0
+Hawaii,5,top,0,Cabrera,,0,0,0,0,3,0
+Hawaii,5,top,1,"Calicdan,D.",struck out swinging,0,0,0,0,3,0
+Hawaii,5,top,1,"Duarte,D.",singled,1,0,0,0,3,0
+Hawaii,5,top,1,"Murray,T.",walked,1,1,0,0,3,0
+Hawaii,5,top,1,"Best,T.",walked,1,1,1,0,3,0
+Hawaii,5,top,2,"Scott,S.",lined out,1,1,1,1,3,1
+Hawaii,5,top,2,"Best,T.",advanced on wild pitch,0,1,1,0,3,1
+Hawaii,5,top,2,"Kennelly,J.",singled,0,0,0,2,3,3
+Hawaii,5,top,2,"Kennelly,J.",advanced on wild pitch,0,0,0,1,3,4
+Hawaii,5,top,2,"Yamazaki,M.",singled,1,0,0,0,3,4
+Hawaii,5,top,3,"Lopez,E.",flied out,1,0,0,0,3,4
+Cal-Poly,5,bottom,0,Kuzma,hit by pitch,1,0,0,0,3,4
+Cal-Poly,5,bottom,0,Gurnik,singled,1,1,0,0,3,4
+Cal-Poly,5,bottom,1,Greene,reached on a fielder's choice,0,0,0,1,4,4
+Cal-Poly,5,bottom,2,Beesley,reached on a fielder's choice,0,0,0,0,4,4
+Cal-Poly,5,bottom,3,Beesley,out at second c,0,0,0,0,4,4
+Hawaii,6,top,0,"Baeza,A.",singled,1,0,0,0,4,4
+Hawaii,6,top,1,"Calicdan,D.",grounded out,0,1,0,0,4,4
+Hawaii,6,top,2,"Duarte,D.",struck out swinging,0,1,0,0,4,4
+Hawaii,6,top,3,"Murray,T.",struck out swinging,0,1,0,0,4,4
+Cal-Poly,6,bottom,0,Samuelson,walked,1,0,0,0,4,4
+Cal-Poly,6,bottom,1,Sands,grounded out,0,1,0,0,4,4
+Cal-Poly,6,bottom,1,Samuelson,advanced on wild pitch,0,0,1,0,4,4
+Cal-Poly,6,bottom,1,DiCarlo,walked,1,0,1,0,4,4
+Cal-Poly,6,bottom,1,Emmerson,singled,1,1,0,1,5,4
+Cal-Poly,6,bottom,1,Cabrera,singled,1,1,1,0,5,4
+Cal-Poly,6,bottom,1,Cabrera,advanced on wild pitch,0,1,1,1,6,4
+Cal-Poly,6,bottom,1,Kuzma,walked,1,1,1,0,6,4
+Cal-Poly,6,bottom,2,Gurnik,reached on a fielder's choice,0,0,1,1,7,4
+Cal-Poly,6,bottom,3,Greene,flied out,0,0,1,0,7,4
+Hawaii,7,top,1,"Best,T.",struck out looking,0,0,0,0,7,4
+Hawaii,7,top,1,"Scott,S.",doubled,0,1,0,0,7,4
+Hawaii,7,top,2,"Kennelly,J.",struck out looking,0,1,0,0,7,4
+Hawaii,7,top,3,"Scott,S.",out at second c,0,1,0,0,7,4
+Cal-Poly,7,bottom,0,Beesley,cf,0,0,0,0,7,4
+Cal-Poly,7,bottom,0,Samuelson,walked,1,0,0,0,7,4
+Cal-Poly,7,bottom,0,Sands,singled,1,1,0,1,8,4
+Cal-Poly,7,bottom,1,DiCarlo,grounded out,0,1,1,0,8,4
+Cal-Poly,7,bottom,1,Emmerson,walked,1,1,1,0,8,4
+Cal-Poly,7,bottom,2,Cabrera,struck out swinging,1,1,1,0,8,4
+Cal-Poly,7,bottom,2,Emmerson,advanced on wild pitch,0,0,0,1,9,4
+Cal-Poly,7,bottom,3,Kuzma,lined out,0,0,0,0,9,4
+Hawaii,8,top,1,"Yamazaki,M.",grounded out,0,0,0,0,9,4
+Hawaii,8,top,2,"Lopez,E.",grounded out,0,0,0,0,9,4
+Hawaii,8,top,2,"Baeza,A.",singled,1,0,0,0,9,4
+Hawaii,8,top,2,"Calicdan,D.",singled,1,1,0,0,9,4
+Hawaii,8,top,2,"Calicdan,D.",advanced on wild pitch,0,1,1,0,9,4
+Hawaii,8,top,3,"Pouelsen,L.",struck out looking,0,1,1,0,9,4
+Cal-Poly,8,bottom,0,"Kennelly,J.",,0,0,0,0,9,4
+Cal-Poly,8,bottom,0,"Lopez,E.",,0,0,0,0,9,4
+Cal-Poly,8,bottom,0,"Pouelsen,L.",,0,0,0,0,9,4
+Cal-Poly,8,bottom,0,"Crasnick,D.",,0,0,0,0,9,4
+Cal-Poly,8,bottom,0,Gurnik,singled,1,0,0,0,9,4
+Cal-Poly,8,bottom,1,Greene,struck out swinging,1,0,0,0,9,4
+Cal-Poly,8,bottom,2,Beesley,struck out swinging,1,0,0,0,9,4
+Cal-Poly,8,bottom,2,Samuelson,homered,1,0,0,2,11,4
+Cal-Poly,8,bottom,2,Sands,walked,1,0,0,0,11,4
+Cal-Poly,8,bottom,2,DiCarlo,walked,1,1,0,0,11,4
+Cal-Poly,8,bottom,2,Emmerson,singled,1,1,0,1,12,4
+Cal-Poly,8,bottom,3,Cabrera,flied out,1,1,0,0,12,4
+Hawaii,9,top,1,"Crasnick,D.",grounded out,0,0,0,0,12,4
+Hawaii,9,top,2,"Best,T.",flied out,0,0,0,0,12,4
+Hawaii,9,top,3,"Scott,S.",flied out,0,0,0,0,12,4

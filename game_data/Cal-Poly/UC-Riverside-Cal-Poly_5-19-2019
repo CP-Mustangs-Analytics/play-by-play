@@ -1,0 +1,89 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+UC-Riverside,1,top,0,"Webb,N",singled,1,0,0,0,0,0
+UC-Riverside,1,top,1,"Bohall,T",grounded out,0,1,0,0,0,0
+UC-Riverside,1,top,1,"Webb,N",advanced on wild pitch,0,0,1,0,0,0
+UC-Riverside,1,top,2,"Miller,D",flied out,0,0,1,1,0,1
+UC-Riverside,1,top,3,"Taylor,Y",grounded out,0,0,1,0,0,1
+Cal-Poly,1,bottom,0,Beesley,singled,1,0,0,0,0,1
+Cal-Poly,1,bottom,0,Beesley,stole,1,1,0,0,0,1
+Cal-Poly,1,bottom,1,Greene,grounded out,0,0,1,0,0,1
+Cal-Poly,1,bottom,2,Samuelson,flied out,0,0,1,1,1,1
+Cal-Poly,1,bottom,2,Sands,singled,1,0,1,0,1,1
+Cal-Poly,1,bottom,3,Emmerson,grounded out,1,0,1,0,1,1
+UC-Riverside,2,top,0,"Cannon,C",walked,1,0,0,0,1,1
+UC-Riverside,2,top,2,"Orick,D",grounded into double play 2b,1,0,0,0,1,1
+UC-Riverside,2,top,3,"Shanks,J",struck out looking,1,0,0,0,1,1
+Cal-Poly,2,bottom,1,DiCarlo,lined out,0,0,0,0,1,1
+Cal-Poly,2,bottom,2,Gurnik,grounded out,0,0,0,0,1,1
+Cal-Poly,2,bottom,2,Cabrera,hit by pitch,1,0,0,0,1,1
+Cal-Poly,2,bottom,3,Kuzma,grounded out,1,0,0,0,1,1
+UC-Riverside,3,top,0,"Avventino,B",singled,1,0,0,0,1,1
+UC-Riverside,3,top,1,"Sanchez,D",struck out swinging,1,0,0,0,1,1
+UC-Riverside,3,top,1,"Webb,N",walked,1,1,0,0,1,1
+UC-Riverside,3,top,1,"Bohall,T",walked,1,1,1,0,1,1
+UC-Riverside,3,top,2,"Miller,D",struck out looking,1,1,1,0,1,1
+UC-Riverside,3,top,3,"Taylor,Y",out at first 1b,1,1,1,0,1,1
+Cal-Poly,3,bottom,0,Beesley,singled,1,0,0,0,1,1
+Cal-Poly,3,bottom,0,Greene,singled,1,0,1,0,1,1
+Cal-Poly,3,bottom,2,Samuelson,grounded into double play ss,1,0,1,1,2,1
+Cal-Poly,3,bottom,3,Sands,grounded out,1,0,1,0,2,1
+UC-Riverside,4,top,0,"Cannon,C",singled,1,0,0,0,2,1
+UC-Riverside,4,top,1,"Orick,D",reached on a fielder's choice,1,0,0,0,2,1
+UC-Riverside,4,top,1,"Shanks,J",homered,1,0,0,2,2,3
+UC-Riverside,4,top,1,"Avventino,B",singled,0,0,0,0,2,3
+UC-Riverside,4,top,1,"Sanchez,D",walked,1,0,0,0,2,3
+UC-Riverside,4,top,1,"Webb,N",infield fly,1,0,0,0,2,3
+UC-Riverside,4,top,1,"Bohall,T",singled,1,1,1,0,2,3
+UC-Riverside,4,top,1,"Miller,D",singled,1,1,1,1,2,4
+UC-Riverside,4,top,1,"Taylor,Y",singled,1,1,0,2,2,6
+UC-Riverside,4,top,2,"Cannon,C",singled,1,1,0,0,2,6
+UC-Riverside,4,top,3,Emmerson,struck out swinging,1,1,0,0,2,6
+Cal-Poly,4,bottom,0,DiCarlo,reached on a fielding error by 3b,0,0,0,0,2,6
+Cal-Poly,4,bottom,1,Gurnik,flied out,0,0,0,0,2,6
+Cal-Poly,4,bottom,2,Cabrera,struck out swinging,0,0,0,0,2,6
+Cal-Poly,4,bottom,3,"Orick,D",struck out looking,0,0,0,0,2,6
+UC-Riverside,5,top,1,"Shanks,J",grounded out,0,0,0,0,2,6
+UC-Riverside,5,top,1,"Avventino,B",walked,1,0,0,0,2,6
+UC-Riverside,5,top,2,"Sanchez,D",grounded out,1,0,0,0,2,6
+UC-Riverside,5,top,3,Kuzma,flied out,1,0,0,0,2,6
+Cal-Poly,5,bottom,1,Beesley,grounded out,0,0,0,0,2,6
+Cal-Poly,5,bottom,2,Greene,flied out,0,0,0,0,2,6
+Cal-Poly,5,bottom,3,"Webb,N",flied out,0,0,0,0,2,6
+UC-Riverside,6,top,0,"Bohall,T",singled,1,0,0,0,2,6
+UC-Riverside,6,top,0,"Miller,D",hit by pitch,1,1,0,0,2,6
+UC-Riverside,6,top,1,"Taylor,Y",flied out,0,0,1,0,2,6
+UC-Riverside,6,top,2,"Cannon,C",lined out,0,0,1,0,2,6
+UC-Riverside,6,top,3,Samuelson,grounded out,0,0,1,0,2,6
+Cal-Poly,6,bottom,1,Sands,flied out,0,0,0,0,2,6
+Cal-Poly,6,bottom,2,Emmerson,grounded out,0,0,0,0,2,6
+Cal-Poly,6,bottom,2,"Orick,D",walked,1,0,0,0,2,6
+Cal-Poly,6,bottom,2,"Shanks,J",singled,1,1,0,0,2,6
+Cal-Poly,6,bottom,2,"Avventino,B",walked,1,1,1,0,2,6
+Cal-Poly,6,bottom,3,"Sanchez,D",reached on a fielder's choice,0,1,1,0,2,6
+UC-Riverside,7,top,1,"Webb,N",flied out,0,0,0,0,2,6
+UC-Riverside,7,top,2,"Bohall,T",fouled out,0,0,0,0,2,6
+UC-Riverside,7,top,2,DiCarlo,singled,1,0,0,0,2,6
+UC-Riverside,7,top,2,Gurnik,reached on a fielder's choice,0,0,0,0,2,6
+UC-Riverside,7,top,2,Cabrera,reached on a fielder's choice,0,0,1,1,2,7
+UC-Riverside,7,top,3,Taylor,struck out looking,0,0,1,0,2,7
+Cal-Poly,7,bottom,0,Cabrera,advanced on wild pitch,0,0,0,1,3,7
+Cal-Poly,7,bottom,0,Beesley,singled,1,0,0,1,4,7
+Cal-Poly,7,bottom,1,Greene,struck out swinging,1,0,0,0,4,7
+Cal-Poly,7,bottom,2,Samuelson,struck out swinging,1,0,0,0,4,7
+Cal-Poly,7,bottom,2,Cano,,1,0,0,0,4,7
+Cal-Poly,7,bottom,3,"Miller,D",grounded out,1,0,0,0,4,7
+UC-Riverside,8,top,1,"Taylor,Y",flied out,0,0,0,0,4,7
+UC-Riverside,8,top,2,"Cannon,C",lined out,0,0,0,0,4,7
+UC-Riverside,8,top,3,Sands,flied out,0,0,0,0,4,7
+Cal-Poly,8,bottom,1,Emmerson,out at first p,0,0,0,0,4,7
+Cal-Poly,8,bottom,1,DiCarlo,doubled,0,1,0,0,4,7
+Cal-Poly,8,bottom,2,Gurnik,flied out,0,1,0,0,4,7
+Cal-Poly,8,bottom,3,"Orick,D",struck out swinging,0,1,0,0,4,7
+UC-Riverside,9,top,0,"Shanks,J",walked,1,0,0,0,4,7
+UC-Riverside,9,top,0,"Avventino,B",walked,1,1,0,0,4,7
+UC-Riverside,9,top,2,"Hardy,M",lined into double play ss,0,1,0,0,4,7
+UC-Riverside,9,top,2,"Pofek,C",,0,1,0,0,4,7
+UC-Riverside,9,top,2,"Kafer,N",,0,1,0,0,4,7
+UC-Riverside,9,top,3,Cabrera,flied out,0,1,0,0,4,7
+Cal-Poly,9,bottom,1,Mackay,struck out swinging,0,0,0,0,4,7
+Cal-Poly,9,bottom,2,Beesley,fouled out,0,0,0,0,4,7

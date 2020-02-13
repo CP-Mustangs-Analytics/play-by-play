@@ -1,0 +1,87 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Southern-California,1,top,0,"Sabol,B.",doubled,0,1,0,0,0,0
+Southern-California,1,top,1,"Stubbs,C.",grounded out,0,0,1,0,0,0
+Southern-California,1,top,2,"O'Guinn,J.",grounded out,0,0,1,1,0,1
+Southern-California,1,top,3,"Acosta,M.",struck out swinging,0,0,1,0,0,1
+Cal-Poly,1,bottom,1,Gurnik,lined out,0,0,0,0,0,1
+Cal-Poly,1,bottom,2,Greene,struck out looking,0,0,0,0,0,1
+Cal-Poly,1,bottom,2,Samuelson,singled,1,0,0,0,0,1
+Cal-Poly,1,bottom,3,Sands,lined out,1,0,0,0,0,1
+Southern-California,2,top,1,"Ramirez,B.",grounded out,0,0,0,0,0,1
+Southern-California,2,top,2,"Owens,C.",struck out swinging,0,0,0,0,0,1
+Southern-California,2,top,3,"Shockey,B.",out at first 1b,0,0,0,0,0,1
+Cal-Poly,2,bottom,1,Emmerson,grounded out,0,0,0,0,0,1
+Cal-Poly,2,bottom,3,DiCarlo,swinging,0,0,0,0,0,1
+Southern-California,3,top,0,Cabrera,walked,1,0,0,0,0,1
+Southern-California,3,top,1,Wagenseller,struck out swinging,1,0,0,0,0,1
+Southern-California,3,top,1,"Perez,B.",homered,1,0,0,1,0,2
+Southern-California,3,top,1,"Pritchard,T",singled,1,0,0,0,0,2
+Southern-California,3,top,2,"Sabol,B.",popped up,1,0,0,0,0,2
+Southern-California,3,top,2,"Stubbs,C.",walked,1,1,0,0,0,2
+Southern-California,3,top,3,"O'Guinn,J.",lined out,1,1,0,0,0,2
+Cal-Poly,3,bottom,1,"Acosta,M.",flied out,0,0,0,0,0,2
+Cal-Poly,3,bottom,2,Kuzma,flied out,0,0,0,0,0,2
+Cal-Poly,3,bottom,2,Gurnik,doubled,0,1,0,0,0,2
+Cal-Poly,3,bottom,2,Greene,singled,1,0,1,0,0,2
+Cal-Poly,3,bottom,2,Samuelson,singled,1,1,0,1,1,2
+Cal-Poly,3,bottom,2,Sands,doubled,1,1,0,2,3,2
+Cal-Poly,3,bottom,3,Emmerson,flied out,1,1,0,0,3,2
+Southern-California,4,top,0,DiCarlo,doubled,0,1,0,1,3,3
+Southern-California,4,top,1,Cabrera,flied out,0,1,0,0,3,3
+Southern-California,4,top,2,"Ramirez,B.",grounded out,0,1,0,0,3,3
+Southern-California,4,top,3,"Owens,C.",struck out swinging,0,1,0,0,3,3
+Cal-Poly,4,bottom,0,"Shockey,B.",doubled,0,1,0,0,3,3
+Cal-Poly,4,bottom,1,"Perez,B.",lined out,0,1,0,0,3,3
+Cal-Poly,4,bottom,1,Wagenseller,singled,1,1,0,0,3,3
+Cal-Poly,4,bottom,2,Kuzma,grounded out,0,1,0,0,3,3
+Cal-Poly,4,bottom,2,Gurnik,walked,1,1,0,0,3,3
+Cal-Poly,4,bottom,2,Greene,walked,1,1,1,0,3,3
+Cal-Poly,4,bottom,2,Samuelson,singled,1,1,1,1,4,3
+Cal-Poly,4,bottom,3,Sands,struck out swinging,1,1,1,0,4,3
+Southern-California,5,top,0,Samuelson,advanced on wild pitch,0,1,1,1,4,4
+Southern-California,5,top,1,Emmerson,struck out swinging,0,1,1,0,4,4
+Southern-California,5,top,1,"Pritchard,T",singled,1,1,1,0,4,4
+Southern-California,5,top,2,"Sabol,B.",struck out swinging,1,1,1,0,4,4
+Southern-California,5,top,3,"Stubbs,C.",flied out,1,1,1,0,4,4
+Cal-Poly,5,bottom,0,"O'Guinn,J.",walked,1,0,0,0,4,4
+Cal-Poly,5,bottom,0,"Acosta,M.",singled,1,1,0,1,5,4
+Cal-Poly,5,bottom,1,"Ramirez,B.",flied out,1,1,0,0,5,4
+Cal-Poly,5,bottom,1,DiCarlo,tripled,1,1,1,0,5,4
+Cal-Poly,5,bottom,2,Cabrera,grounded out,1,1,1,0,5,4
+Cal-Poly,5,bottom,2,Wagenseller,doubled,1,1,1,1,6,4
+Cal-Poly,5,bottom,2,Kuzma,singled,1,1,1,1,7,4
+Cal-Poly,5,bottom,3,Kuzma,out at second c,1,1,1,0,7,4
+Southern-California,6,top,1,Gurnik,flied out,0,0,0,0,7,4
+Southern-California,6,top,2,"Owens,C.",grounded out,0,0,0,0,7,4
+Southern-California,6,top,2,"Shockey,B.",singled,1,0,0,0,7,4
+Southern-California,6,top,2,"Perez,B.",singled,1,1,0,0,7,4
+Southern-California,6,top,2,"Pritchard,T",walked,1,1,1,0,7,4
+Southern-California,6,top,2,"Sabol,B.",walked,1,1,1,1,7,5
+Southern-California,6,top,2,"Stubbs,C.",singled,1,1,0,2,7,7
+Southern-California,6,top,4,"O'Guinn,J.",struck out swinging,1,1,0,0,7,7
+Cal-Poly,6,bottom,1,Greene,struck out looking,0,0,0,0,7,7
+Cal-Poly,6,bottom,2,Samuelson,lined out,0,0,0,0,7,7
+Cal-Poly,6,bottom,3,Sands,grounded out,0,0,0,0,7,7
+Southern-California,7,top,1,"Acosta,M.",grounded out,0,0,0,0,7,7
+Southern-California,7,top,2,"Ramirez,B.",flied out,0,0,0,0,7,7
+Southern-California,7,top,2,"Owens,C.",walked,1,0,0,0,7,7
+Southern-California,7,top,3,"Shockey,B.",flied out,1,0,0,0,7,7
+Cal-Poly,7,bottom,1,Emmerson,flied out,0,0,0,0,7,7
+Cal-Poly,7,bottom,1,DiCarlo,singled,1,0,0,0,7,7
+Cal-Poly,7,bottom,1,DiCarlo,advanced on wild pitch,0,1,0,0,7,7
+Cal-Poly,7,bottom,2,Cabrera,flied out,0,1,0,0,7,7
+Cal-Poly,7,bottom,3,Wagenseller,flied out,0,1,0,0,7,7
+Southern-California,8,top,0,Taylor,,0,0,0,0,7,7
+Southern-California,8,top,1,"Perez,B.",struck out swinging,0,0,0,0,7,7
+Southern-California,8,top,2,"Pritchard,T",flied out,0,0,0,0,7,7
+Southern-California,8,top,2,"Sabol,B.",walked,1,0,0,0,7,7
+Southern-California,8,top,3,"Stubbs,C.",flied out,1,0,0,0,7,7
+Cal-Poly,8,bottom,0,Kuzma,walked,1,0,0,0,7,7
+Cal-Poly,8,bottom,0,Gurnik,singled,1,1,0,0,7,7
+Cal-Poly,8,bottom,0,Greene,singled,1,1,1,0,7,7
+Cal-Poly,8,bottom,1,Samuelson,reached on a fielder's choice,0,1,1,0,7,7
+Cal-Poly,8,bottom,1,Sands,singled,1,1,1,1,8,7
+Cal-Poly,8,bottom,3,Emmerson,grounded into double play ss,1,1,1,0,8,7
+Southern-California,9,top,1,"O'Guinn,J.",grounded out,0,0,0,0,8,7
+Southern-California,9,top,2,"Acosta,M.",flied out,0,0,0,0,8,7
+Southern-California,9,top,3,"Ramirez,B.",flied out,0,0,0,0,8,7

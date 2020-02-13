@@ -1,0 +1,109 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Santa-Clara,1,top,1,ALLIE,grounded out,0,0,0,0,0,0
+Santa-Clara,1,top,2,JEW,struck out swinging,0,0,0,0,0,0
+Santa-Clara,1,top,3,DICOCHEA,flied out,0,0,0,0,0,0
+Cal-Poly,1,bottom,0,Gurnik,tripled,0,0,1,0,0,0
+Cal-Poly,1,bottom,1,Greene,lined out,0,0,1,0,0,0
+Cal-Poly,1,bottom,2,Beesley,flied out,0,0,1,0,0,0
+Cal-Poly,1,bottom,2,Samuelson,hit by pitch,1,0,1,0,0,0
+Cal-Poly,1,bottom,3,Taylor,struck out swinging,1,0,1,0,0,0
+Santa-Clara,2,top,1,MACNICHOLS,flied out,0,0,0,0,0,0
+Santa-Clara,2,top,2,HENRIQUES,grounded out,0,0,0,0,0,0
+Santa-Clara,2,top,2,MCCARTHY,singled,1,0,0,0,0,0
+Santa-Clara,2,top,2,MALONEY,walked,1,1,0,0,0,0
+Santa-Clara,2,top,2,BOETTO,singled,1,0,1,1,0,1
+Santa-Clara,2,top,3,BRIGMAN,struck out swinging,1,0,1,0,0,1
+Cal-Poly,2,bottom,1,DiCarlo,flied out,0,0,0,0,0,1
+Cal-Poly,2,bottom,2,Sands,flied out,0,0,0,0,0,1
+Cal-Poly,2,bottom,2,Mackay,homered,0,0,0,1,1,1
+Cal-Poly,2,bottom,2,Cano,hit by pitch,1,0,0,0,1,1
+Cal-Poly,2,bottom,2,Gurnik,singled,0,0,1,0,1,1
+Cal-Poly,2,bottom,3,Greene,grounded out,0,0,1,0,1,1
+Santa-Clara,3,top,1,ALLIE,grounded out,0,0,0,0,1,1
+Santa-Clara,3,top,2,JEW,struck out swinging,0,0,0,0,1,1
+Santa-Clara,3,top,3,DICOCHEA,grounded out,0,0,0,0,1,1
+Cal-Poly,3,bottom,0,Beesley,singled,1,0,0,0,1,1
+Cal-Poly,3,bottom,1,Beesley,out at second c,1,0,0,0,1,1
+Cal-Poly,3,bottom,2,Samuelson,struck out looking,1,0,0,0,1,1
+Cal-Poly,3,bottom,2,Taylor,reached on a fielding error by 3b,1,0,0,0,1,1
+Cal-Poly,3,bottom,2,DiCarlo,singled,1,0,1,0,1,1
+Cal-Poly,3,bottom,3,Sands,struck out looking,1,0,1,0,1,1
+Santa-Clara,4,top,1,MACNICHOLS,lined out,0,0,0,0,1,1
+Santa-Clara,4,top,2,HENRIQUES,swinging,0,0,0,0,1,1
+Santa-Clara,4,top,2,MCCARTHY,singled,1,1,0,0,1,1
+Santa-Clara,4,top,2,MALONEY,singled,0,0,0,2,1,3
+Santa-Clara,4,top,2,MALONEY,pitch,0,0,0,1,1,4
+Santa-Clara,4,top,3,BOETTO,struck out looking,0,0,0,0,1,4
+Cal-Poly,4,bottom,0,BRIGMAN,hit by pitch,1,0,0,0,1,4
+Cal-Poly,4,bottom,1,ALLIE,grounded out,1,0,0,0,1,4
+Cal-Poly,4,bottom,3,Mackay,swinging,1,0,0,0,1,4
+Santa-Clara,5,top,1,Cano,grounded out,0,0,0,0,1,4
+Santa-Clara,5,top,1,Gurnik,singled,1,0,0,0,1,4
+Santa-Clara,5,top,2,Greene,struck out looking,1,0,0,0,1,4
+Santa-Clara,5,top,2,Emmerson,,1,0,0,0,1,4
+Santa-Clara,5,top,3,JEW,grounded out,1,0,0,0,1,4
+Cal-Poly,5,bottom,1,DICOCHEA,grounded out,0,0,0,0,1,4
+Cal-Poly,5,bottom,2,MACNICHOLS,flied out,0,0,0,0,1,4
+Cal-Poly,5,bottom,3,Beesley,grounded out,0,0,0,0,1,4
+Santa-Clara,6,top,1,Samuelson,grounded out,0,0,0,0,1,4
+Santa-Clara,6,top,3,Taylor,swinging,0,0,0,0,1,4
+Cal-Poly,6,bottom,1,HENRIQUES,grounded out,0,0,0,0,1,4
+Cal-Poly,6,bottom,2,MCCARTHY,struck out looking,0,0,0,0,1,4
+Cal-Poly,6,bottom,2,MALONEY,singled,1,0,0,0,1,4
+Cal-Poly,6,bottom,2,BOETTO,reached on a fielding error by ss,0,1,0,0,1,4
+Cal-Poly,6,bottom,3,BRIGMAN,struck out looking,0,1,0,0,1,4
+Santa-Clara,7,top,1,DiCarlo,flied out,0,0,0,0,1,4
+Santa-Clara,7,top,1,Sands,singled,1,0,0,0,1,4
+Santa-Clara,7,top,1,Emmerson,walked,1,1,0,0,1,4
+Santa-Clara,7,top,1,Cano,walked,1,1,1,0,1,4
+Santa-Clara,7,top,2,Gurnik,reached on a fielder's choice,0,1,0,1,1,5
+Santa-Clara,7,top,3,Greene,flied out,0,1,0,0,1,5
+Cal-Poly,7,bottom,0,Gurnik,,0,0,0,0,1,5
+Cal-Poly,7,bottom,0,Doherty,,0,0,0,0,1,5
+Cal-Poly,7,bottom,1,ALLIE,struck out looking,0,0,0,0,1,5
+Cal-Poly,7,bottom,1,JEW,doubled,0,1,0,0,1,5
+Cal-Poly,7,bottom,2,DICOCHEA,flied out,0,1,0,0,1,5
+Cal-Poly,7,bottom,2,MACNICHOLS,singled,0,0,0,1,2,5
+Cal-Poly,7,bottom,2,HENRIQUES,singled,1,0,0,1,3,5
+Cal-Poly,7,bottom,3,MCCARTHY,struck out looking,1,0,0,0,3,5
+Santa-Clara,8,top,1,Beesley,struck out swinging,0,0,0,0,3,5
+Santa-Clara,8,top,1,Samuelson,singled,1,0,0,0,3,5
+Santa-Clara,8,top,3,Taylor,grounded into double play ss,1,0,0,0,3,5
+Cal-Poly,8,bottom,1,MALONEY,lined out,0,0,0,0,3,5
+Cal-Poly,8,bottom,2,BOETTO,flied out,0,0,0,0,3,5
+Cal-Poly,8,bottom,2,BRIGMAN,reached on a throwing error by ss,0,0,0,0,3,5
+Cal-Poly,8,bottom,3,ALLIE,struck out swinging,0,0,0,0,3,5
+Santa-Clara,9,top,0,FADDOUL,,0,0,0,0,3,5
+Santa-Clara,9,top,0,DiCarlo,walked,1,0,0,0,3,5
+Santa-Clara,9,top,1,Sands,reached on a fielder's choice,1,0,0,0,3,5
+Santa-Clara,9,top,1,Sands,advanced on wild pitch,0,1,0,0,3,5
+Santa-Clara,9,top,1,Emmerson,walked,1,0,1,0,3,5
+Santa-Clara,9,top,1,Doherty,walked,1,1,0,0,3,5
+Santa-Clara,9,top,1,Gurnik,singled,1,1,1,1,3,6
+Santa-Clara,9,top,2,Greene,struck out looking,1,1,1,0,3,6
+Santa-Clara,9,top,2,Beesley,reached on a fielder's choice,0,0,1,1,3,7
+Santa-Clara,9,top,2,Samuelson,singled,1,1,0,2,3,9
+Santa-Clara,9,top,3,Taylor,struck out swinging,1,1,0,0,3,9
+Cal-Poly,9,bottom,0,Cabrera,,0,0,0,0,3,9
+Cal-Poly,9,bottom,1,JEW,struck out looking,0,0,0,0,3,9
+Cal-Poly,9,bottom,2,DICOCHEA,grounded out,0,0,0,0,3,9
+Cal-Poly,9,bottom,3,MACNICHOLS,flied out,0,0,0,0,3,9
+Santa-Clara,10,top,1,DiCarlo,grounded out,0,0,0,0,3,9
+Santa-Clara,10,top,1,Sands,singled,1,0,0,0,3,9
+Santa-Clara,10,top,1,Wagenseller,pinch ran for Sands.,1,0,0,0,3,9
+Santa-Clara,10,top,2,Emmerson,struck out swinging,1,0,0,0,3,9
+Santa-Clara,10,top,3,Doherty,flied out,1,0,0,0,3,9
+Cal-Poly,10,bottom,0,HENRIQUES,doubled,0,1,0,0,3,9
+Cal-Poly,10,bottom,0,HENRIQUES,advanced on wild pitch,0,0,1,0,3,9
+Cal-Poly,10,bottom,0,MCCARTHY,walked,1,0,1,0,3,9
+Cal-Poly,10,bottom,0,FADDOUL,reached on a fielder's choice,0,1,0,1,4,9
+Cal-Poly,10,bottom,1,BOETTO,grounded out,0,1,1,0,4,9
+Cal-Poly,10,bottom,2,BRIGMAN,reached on a fielder's choice,0,0,1,0,4,9
+Cal-Poly,10,bottom,2,BRIGMAN,advanced on wild pitch,0,0,0,0,4,9
+Cal-Poly,10,bottom,4,ALLIE,swinging,0,0,0,0,4,9
+Santa-Clara,11,top,1,Gurnik,flied out,0,0,0,0,4,9
+Santa-Clara,11,top,1,Greene,singled,1,0,0,0,4,9
+Santa-Clara,11,top,2,Beesley,reached on a fielder's choice,1,0,0,0,4,9
+Santa-Clara,11,top,2,Beesley,advanced on wild pitch,0,1,0,0,4,9
+Santa-Clara,11,top,2,Samuelson,intentionally walked.,1,1,0,0,4,9
+Santa-Clara,11,top,3,Cabrera,grounded out,1,1,0,0,4,9

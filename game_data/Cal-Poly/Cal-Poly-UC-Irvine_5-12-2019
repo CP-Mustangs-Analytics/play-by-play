@@ -1,0 +1,85 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,Beesley,grounded out,0,0,0,0,0,0
+Cal-Poly,1,top,1,Greene,tripled,0,0,1,0,0,0
+Cal-Poly,1,top,1,Samuelson,singled,0,0,1,1,0,1
+Cal-Poly,1,top,1,Sands,homered,0,0,1,1,0,2
+Cal-Poly,1,top,2,Emmerson,struck out swinging,0,0,1,0,0,2
+Cal-Poly,1,top,2,DiCarlo,singled,1,0,1,0,0,2
+Cal-Poly,1,top,2,Kuzma,singled,0,0,1,0,0,2
+Cal-Poly,1,top,2,Kuzma,advanced on wild pitch,0,1,0,0,0,2
+Cal-Poly,1,top,2,Gurnik,walked,1,1,0,0,0,2
+Cal-Poly,1,top,2,Cabrera,walked,0,0,0,1,0,3
+Cal-Poly,1,top,2,Beesley,singled,0,0,0,1,0,4
+Cal-Poly,1,top,3,Greene,struck out looking,0,0,0,0,0,4
+UC-Irvine,1,bottom,1,Peabody,flied out,0,0,0,0,0,4
+UC-Irvine,1,bottom,2,Lewis,flied out,0,0,0,0,0,4
+UC-Irvine,1,bottom,2,Damla,walked,1,0,0,0,0,4
+UC-Irvine,1,bottom,3,Zickefoose,grounded out,1,0,0,0,0,4
+Cal-Poly,2,top,1,Samuelson,grounded out,0,0,0,0,0,4
+Cal-Poly,2,top,1,Sands,hit by pitch,1,0,0,0,0,4
+Cal-Poly,2,top,3,Emmerson,grounded into double play ss,1,0,0,0,0,4
+UC-Irvine,2,bottom,1,Mazur,grounded out,0,0,0,0,0,4
+UC-Irvine,2,bottom,2,Antone,struck out looking,0,0,0,0,0,4
+UC-Irvine,2,bottom,3,Koss,struck out looking,0,0,0,0,0,4
+Cal-Poly,3,top,1,DiCarlo,struck out swinging,0,0,0,0,0,4
+Cal-Poly,3,top,2,Kuzma,flied out,0,0,0,0,0,4
+Cal-Poly,3,top,3,Gurnik,grounded out,0,0,0,0,0,4
+UC-Irvine,3,bottom,1,Filia,grounded out,0,0,0,0,0,4
+UC-Irvine,3,bottom,1,Ireland,hit by pitch,1,0,0,0,0,4
+UC-Irvine,3,bottom,2,Peabody,reached on a fielder's choice,1,0,0,0,0,4
+UC-Irvine,3,bottom,3,Lewis,grounded out,1,0,0,0,0,4
+Cal-Poly,4,top,1,Cabrera,flied out,0,0,0,0,0,4
+Cal-Poly,4,top,2,Beesley,flied out,0,0,0,0,0,4
+Cal-Poly,4,top,3,Greene,grounded out,0,0,0,0,0,4
+UC-Irvine,4,bottom,2,Damla,swinging,0,0,0,0,0,4
+UC-Irvine,4,bottom,4,Zickefoose,swinging,0,0,0,0,0,4
+Cal-Poly,5,top,1,Mazur,struck out looking,0,0,0,0,0,4
+Cal-Poly,5,top,2,Samuelson,struck out swinging,0,0,0,0,0,4
+Cal-Poly,5,top,3,Sands,fouled out,0,0,0,0,0,4
+UC-Irvine,5,bottom,0,Emmerson,singled,1,0,0,0,0,4
+UC-Irvine,5,bottom,1,DiCarlo,lined out,1,0,0,0,0,4
+UC-Irvine,5,bottom,1,Antone,walked,1,0,0,0,0,4
+UC-Irvine,5,bottom,1,Koss,singled,0,1,0,0,0,4
+UC-Irvine,5,bottom,1,Filia,walked,0,0,1,0,0,4
+UC-Irvine,5,bottom,1,Ireland,3b,0,0,0,1,1,4
+UC-Irvine,5,bottom,1,Filia,advanced on wild pitch,0,0,1,0,1,4
+UC-Irvine,5,bottom,1,Peabody,singled,0,0,0,1,2,4
+UC-Irvine,5,bottom,2,Lewis,grounded out,0,0,1,0,2,4
+UC-Irvine,5,bottom,3,Damla,grounded out,0,0,1,0,2,4
+Cal-Poly,6,top,1,Zickefoose,struck out swinging,0,0,0,0,2,4
+Cal-Poly,6,top,2,Kuzma,struck out swinging,0,0,0,0,2,4
+Cal-Poly,6,top,2,Gurnik,singled,1,0,0,0,2,4
+Cal-Poly,6,top,3,Cabrera,flied out,1,0,0,0,2,4
+UC-Irvine,6,bottom,0,Beesley,singled,0,0,1,0,2,4
+UC-Irvine,6,bottom,0,Greene,walked,0,1,0,0,2,4
+UC-Irvine,6,bottom,0,Samuelson,p,0,0,0,1,3,4
+UC-Irvine,6,bottom,0,Samuelson,advanced on wild pitch,0,0,0,1,4,4
+UC-Irvine,6,bottom,1,Sands,struck out looking,0,0,0,0,4,4
+UC-Irvine,6,bottom,1,Mazur,walked,1,0,0,0,4,4
+UC-Irvine,6,bottom,3,Palmer,grounded into double play 2b,1,0,0,0,4,4
+Cal-Poly,7,top,1,Koss,lined out,0,0,0,0,4,4
+Cal-Poly,7,top,2,Emmerson,struck out swinging,0,0,0,0,4,4
+Cal-Poly,7,top,2,DiCarlo,doubled,0,1,0,0,4,4
+Cal-Poly,7,top,3,Kuzma,flied out,0,1,0,0,4,4
+UC-Irvine,7,bottom,1,Gurnik,flied out,0,0,0,0,4,4
+UC-Irvine,7,bottom,2,Filia,grounded out,0,0,0,0,4,4
+UC-Irvine,7,bottom,3,Ireland,grounded out,0,0,0,0,4,4
+Cal-Poly,8,top,1,Peabody,struck out swinging,0,0,0,0,4,4
+Cal-Poly,8,top,2,Cabrera,struck out swinging,0,0,0,0,4,4
+Cal-Poly,8,top,2,Beesley,walked,1,0,0,0,4,4
+Cal-Poly,8,top,2,Greene,walked,0,1,0,0,4,4
+Cal-Poly,8,top,3,Samuelson,flied out,0,0,1,0,4,4
+UC-Irvine,8,bottom,1,Sands,grounded out,0,0,0,0,4,4
+UC-Irvine,8,bottom,2,Lewis,grounded out,0,0,0,0,4,4
+UC-Irvine,8,bottom,3,Damla,grounded out,0,0,0,0,4,4
+Cal-Poly,9,top,0,Zickefoose,doubled,0,1,0,0,4,4
+Cal-Poly,9,top,1,Castro,flied out,0,1,0,0,4,4
+Cal-Poly,9,top,1,Castro,,0,1,0,0,4,4
+Cal-Poly,9,top,2,Emmerson,flied out,0,1,0,0,4,4
+Cal-Poly,9,top,3,DiCarlo,grounded out,0,1,0,0,4,4
+UC-Irvine,9,bottom,0,Kuzma,hit by pitch,1,0,0,0,4,4
+UC-Irvine,9,bottom,1,Gurnik,grounded out,1,0,0,0,4,4
+UC-Irvine,9,bottom,2,Palmer,flied out,1,0,0,0,4,4
+UC-Irvine,9,bottom,2,Koss,doubled,1,1,0,0,4,4
+UC-Irvine,9,bottom,3,Filia,fouled out,1,1,0,0,4,4
+Cal-Poly,10,top,1,Jensen,grounded out,0,0,0,0,4,4

@@ -1,0 +1,96 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,Cabrera,struck out swinging,0,0,0,0,0,0
+Cal-Poly,1,top,1,Greene,singled,1,0,0,0,0,0
+Cal-Poly,1,top,2,Beesley,flied out,1,0,0,0,0,0
+Cal-Poly,1,top,2,Samuelson,singled,1,0,1,0,0,0
+Cal-Poly,1,top,2,DiCarlo,singled,1,1,0,1,0,1
+Cal-Poly,1,top,3,Sands,reached on a fielder's choice,1,1,0,0,0,1
+Washington,1,bottom,0,"Ward,B.",singled,1,0,0,0,0,1
+Washington,1,bottom,0,"Ward,B.",stole,1,1,0,0,0,1
+Washington,1,bottom,0,"Ward,B.",stole,1,1,1,0,0,1
+Washington,1,bottom,1,"Kahle,N.",flied out,1,1,1,1,1,1
+Washington,1,bottom,2,"Bramasco,R.",grounded out,1,1,1,0,1,1
+Washington,1,bottom,3,"Wainhouse,J",grounded out,1,1,1,0,1,1
+Cal-Poly,2,top,1,Gurnik,grounded out,0,0,0,0,1,1
+Cal-Poly,2,top,1,Emmerson,walked,1,0,0,0,1,1
+Cal-Poly,2,top,2,Cano,struck out swinging,1,0,0,0,1,1
+Cal-Poly,2,top,3,Cabrera,flied out,1,0,0,0,1,1
+Washington,2,bottom,1,"Schiffer,J.",grounded out,0,0,0,0,1,1
+Washington,2,bottom,2,"Cerrillo,M.",lined out,0,0,0,0,1,1
+Washington,2,bottom,2,"Blair,C.",singled,1,0,0,0,1,1
+Washington,2,bottom,3,"Hsue,N.",reached on a fielder's choice,1,0,0,0,1,1
+Cal-Poly,3,top,0,Greene,singled,1,0,0,0,1,1
+Cal-Poly,3,top,1,Beesley,flied out,1,0,0,0,1,1
+Cal-Poly,3,top,2,Samuelson,struck out swinging,1,0,0,0,1,1
+Cal-Poly,3,top,3,DiCarlo,grounded out,1,0,0,0,1,1
+Washington,3,bottom,1,"Roberts,N.",struck out looking,0,0,0,0,1,1
+Washington,3,bottom,1,"Ward,B.",walked,1,0,0,0,1,1
+Washington,3,bottom,1,"Ward,B.",stole,1,1,0,0,1,1
+Washington,3,bottom,1,"Kahle,N.",walked,1,1,0,0,1,1
+Washington,3,bottom,1,"Kahle,N.",advanced on wild pitch,0,1,1,0,1,1
+Washington,3,bottom,1,"Bramasco,R.",singled,1,0,1,1,2,1
+Washington,3,bottom,1,"Wainhouse,J",hit by pitch,1,1,0,0,2,1
+Washington,3,bottom,2,"Schiffer,J.",flied out,1,1,0,1,3,1
+Washington,3,bottom,2,"Cerrillo,M.",singled,1,1,0,1,4,1
+Washington,3,bottom,3,"Blair,C.",grounded out,1,1,0,0,4,1
+Cal-Poly,4,top,1,Sands,grounded out,0,0,0,0,4,1
+Cal-Poly,4,top,1,Gurnik,singled,1,0,0,0,4,1
+Cal-Poly,4,top,1,Emmerson,doubled,1,1,0,1,4,2
+Cal-Poly,4,top,2,Cano,reached on a fielder's choice,1,1,0,0,4,2
+Cal-Poly,4,top,2,Cabrera,singled,1,1,0,0,4,2
+Cal-Poly,4,top,2,Greene,reached on a fielding error by ss,0,1,1,0,4,2
+Cal-Poly,4,top,2,Beesley,doubled,0,1,1,3,4,5
+Cal-Poly,4,top,2,Samuelson,reached on a throwing error by c,0,1,1,1,4,6
+Cal-Poly,4,top,3,DiCarlo,struck out swinging,0,1,1,0,4,6
+Washington,4,bottom,1,"Hsue,N.",grounded out,0,0,0,0,4,6
+Washington,4,bottom,2,"Roberts,N.",grounded out,0,0,0,0,4,6
+Washington,4,bottom,2,"Ward,B.",singled,1,0,0,0,4,6
+Washington,4,bottom,2,"Kahle,N.",doubled,0,1,1,0,4,6
+Washington,4,bottom,2,"Bramasco,R.",doubled,0,1,1,2,6,6
+Washington,4,bottom,3,"Wainhouse,J",struck out looking,0,1,1,0,6,6
+Cal-Poly,5,top,1,Sands,struck out swinging,0,0,0,0,6,6
+Cal-Poly,5,top,2,Gurnik,popped up,0,0,0,0,6,6
+Cal-Poly,5,top,3,Emmerson,struck out looking,0,0,0,0,6,6
+Washington,5,bottom,0,"Schiffer,J.",walked,1,0,0,0,6,6
+Washington,5,bottom,0,"Cerrillo,M.",walked,1,1,0,0,6,6
+Washington,5,bottom,0,"Blair,C.",singled,1,1,1,0,6,6
+Washington,5,bottom,1,"Hsue,N.",grounded out,0,1,1,1,7,6
+Washington,5,bottom,2,"Nichols,R.",grounded out,0,0,1,1,8,6
+Washington,5,bottom,3,"Ward,B.",flied out,0,0,1,0,8,6
+Cal-Poly,6,top,0,"Baird,B.",,0,0,0,0,8,6
+Cal-Poly,6,top,1,Cano,struck out swinging,0,0,0,0,8,6
+Cal-Poly,6,top,1,Cabrera,walked,1,0,0,0,8,6
+Cal-Poly,6,top,2,Greene,struck out looking,1,0,0,0,8,6
+Cal-Poly,6,top,2,Beesley,reached on a throwing error by 2b,0,1,0,0,8,6
+Cal-Poly,6,top,3,Samuelson,reached on a fielder's choice,0,1,0,0,8,6
+Washington,6,bottom,0,Gurnik,,0,0,0,0,8,6
+Washington,6,bottom,0,Doherty,,0,0,0,0,8,6
+Washington,6,bottom,0,"Kahle,N.",singled,1,0,0,0,8,6
+Washington,6,bottom,1,"Bramasco,R.",struck out looking,1,0,0,0,8,6
+Washington,6,bottom,1,"Wainhouse,J",walked,1,1,0,0,8,6
+Washington,6,bottom,3,"Schiffer,J.",grounded into double play ss,1,1,0,0,8,6
+Cal-Poly,7,top,1,DiCarlo,popped up,0,0,0,0,8,6
+Cal-Poly,7,top,2,Mackay,struck out swinging,0,0,0,0,8,6
+Cal-Poly,7,top,2,Gurnik,singled,1,0,0,0,8,6
+Cal-Poly,7,top,3,Emmerson,lined out,1,0,0,0,8,6
+Washington,7,bottom,1,"Cerrillo,M.",fouled out,0,0,0,0,8,6
+Washington,7,bottom,2,"Blair,C.",struck out swinging,0,0,0,0,8,6
+Washington,7,bottom,3,"Hsue,N.",struck out swinging,0,0,0,0,8,6
+Cal-Poly,8,top,0,"Weiss,K.",,0,0,0,0,8,6
+Cal-Poly,8,top,1,Doherty,struck out swinging,0,0,0,0,8,6
+Cal-Poly,8,top,2,Cabrera,grounded out,0,0,0,0,8,6
+Cal-Poly,8,top,2,Greene,walked,1,0,0,0,8,6
+Cal-Poly,8,top,3,Beesley,reached on a fielder's choice,1,0,0,0,8,6
+Washington,8,bottom,1,"Baird,B.",grounded out,0,0,0,0,8,6
+Washington,8,bottom,2,"Ward,B.",grounded out,0,0,0,0,8,6
+Washington,8,bottom,2,"Kahle,N.",singled,1,0,0,0,8,6
+Washington,8,bottom,2,"Bramasco,R.",doubled,0,0,0,1,9,6
+Washington,8,bottom,2,"Wainhouse,J",homered,0,0,0,2,11,6
+Washington,8,bottom,3,"Schiffer,J.",struck out swinging,0,0,0,0,11,6
+Cal-Poly,9,top,0,Samuelson,walked,1,0,0,0,11,6
+Cal-Poly,9,top,0,DiCarlo,singled,1,1,0,0,11,6
+Cal-Poly,9,top,1,Mackay,struck out swinging,1,1,0,0,11,6
+Cal-Poly,9,top,1,Gurnik,walked,1,1,1,0,11,6
+Cal-Poly,9,top,2,Emmerson,struck out swinging,1,1,1,0,11,6
+Cal-Poly,9,top,2,Wagenseller,walked,1,1,1,1,11,7
+Cal-Poly,9,top,3,Cabrera,reached on a fielder's choice,0,1,0,0,11,7

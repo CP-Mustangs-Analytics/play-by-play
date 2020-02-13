@@ -1,0 +1,87 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+California,1,top,0,Baker,walked.,1,0,0,0,0,0
+California,1,top,0,Vaughn,singled,0,1,0,0,0,0
+California,1,top,1,Lee,grounded out,0,0,1,0,0,0
+California,1,top,2,Flower,singled,0,0,0,1,0,1
+California,1,top,3,Holman,struck out looking.,0,0,0,0,0,1
+Cal-Poly,1,bottom,1,Cano,grounded out,0,0,0,0,0,1
+Cal-Poly,1,bottom,1,Greene,singled,1,0,0,0,0,1
+Cal-Poly,1,bottom,1,Beesley,advanced on wild pitch,0,1,0,0,0,1
+Cal-Poly,1,bottom,1,DiCarlo,singled,0,0,0,1,1,1
+Cal-Poly,1,bottom,1,DiCarlo,advanced on wild pitch,0,0,1,0,1,1
+Cal-Poly,1,bottom,2,Wagenseller,struck out swinging.,0,0,1,0,1,1
+Cal-Poly,1,bottom,2,Cabrera,walked.,1,0,1,0,1,1
+Cal-Poly,1,bottom,2,Samuelson,doubled,1,0,1,1,2,1
+Cal-Poly,1,bottom,3,Emmerson,grounded out,1,0,1,0,2,1
+California,2,top,0,Wezniak,walked.,1,0,0,0,2,1
+California,2,top,1,Smith,flied out,1,0,0,0,2,1
+California,2,top,2,McIlwain,flied out,1,0,0,0,2,1
+California,2,top,3,Mack,grounded out,1,0,0,0,2,1
+Cal-Poly,2,bottom,1,Gurnik,struck out swinging.,0,0,0,0,2,1
+Cal-Poly,2,bottom,2,Cano,flied out,0,0,0,0,2,1
+Cal-Poly,2,bottom,2,Greene,singled,1,0,0,0,2,1
+Cal-Poly,2,bottom,3,Beesley,popped up,1,0,0,0,2,1
+California,3,top,1,Baker,grounded out,0,0,0,0,2,1
+California,3,top,1,Vaughn,doubled,0,1,0,0,2,1
+California,3,top,2,Lee,grounded out,0,1,0,0,2,1
+California,3,top,2,Flower,doubled,0,1,0,1,2,2
+California,3,top,3,Holman,struck out swinging.,0,1,0,0,2,2
+Cal-Poly,3,bottom,1,DiCarlo,struck out looking.,0,0,0,0,2,2
+Cal-Poly,3,bottom,2,Wagenseller,popped up,0,0,0,0,2,2
+Cal-Poly,3,bottom,3,Cabrera,struck out swinging.,0,0,0,0,2,2
+California,4,top,1,Wezniak,struck out swinging.,0,0,0,0,2,2
+California,4,top,1,Smith,walked.,1,0,0,0,2,2
+California,4,top,1,Smith,stole,1,1,0,0,2,2
+California,4,top,2,McIlwain,struck out swinging.,1,1,0,0,2,2
+California,4,top,3,Mack,grounded out,1,1,0,0,2,2
+Cal-Poly,4,bottom,1,Samuelson,grounded out,0,0,0,0,2,2
+Cal-Poly,4,bottom,2,Emmerson,struck out swinging.,0,0,0,0,2,2
+Cal-Poly,4,bottom,2,Gurnik,doubled,0,1,0,0,2,2
+Cal-Poly,4,bottom,3,Cano,grounded out,0,1,0,0,2,2
+California,5,top,1,Baker,grounded out,0,0,0,0,2,2
+California,5,top,1,Vaughn,singled,1,0,0,0,2,2
+California,5,top,1,Vaughn,advanced on wild pitch,0,1,0,0,2,2
+California,5,top,2,Lee,struck out looking.,0,1,0,0,2,2
+California,5,top,3,Flower,struck out looking.,0,1,0,0,2,2
+Cal-Poly,5,bottom,0,Greene,walked.,1,0,0,0,2,2
+Cal-Poly,5,bottom,1,Beesley,fouled out,1,0,0,0,2,2
+Cal-Poly,5,bottom,2,DiCarlo,struck out swinging.,1,0,0,0,2,2
+Cal-Poly,5,bottom,2,Taylor,advanced on wild pitch,0,1,0,0,2,2
+Cal-Poly,5,bottom,2,Taylor,advanced on wild pitch,0,0,1,0,2,2
+Cal-Poly,5,bottom,2,Cabrera,walked.,1,0,1,0,2,2
+Cal-Poly,5,bottom,3,Samuelson,flied out,1,0,1,0,2,2
+California,6,top,0,Holman,walked.,1,0,0,0,2,2
+California,6,top,0,Wezniak,singled,0,1,0,0,2,2
+California,6,top,0,Smith,advanced on wild pitch,0,0,1,0,2,2
+California,6,top,2,McIlwain,flied into double play lf,0,0,1,1,2,3
+California,6,top,2,Mack,2b,0,0,1,0,2,3
+California,6,top,2,Baker,walked.,1,0,1,0,2,3
+California,6,top,2,Vaughn,singled,0,0,0,1,2,4
+California,6,top,3,Lee,grounded out,0,0,0,0,2,4
+Cal-Poly,6,bottom,1,Emmerson,lined out,0,0,0,0,2,4
+Cal-Poly,6,bottom,1,Gurnik,singled,1,0,0,0,2,4
+Cal-Poly,6,bottom,2,Cano,flied out,1,0,0,0,2,4
+Cal-Poly,6,bottom,3,Gurnik,out at second c,1,0,0,0,2,4
+California,7,top,1,Flower,lined out,0,0,0,0,2,4
+California,7,top,2,Holman,struck out swinging.,0,0,0,0,2,4
+California,7,top,3,Wezniak,grounded out,0,0,0,0,2,4
+Cal-Poly,7,bottom,0,Greene,walked.,1,0,0,0,2,4
+Cal-Poly,7,bottom,0,Beesley,singled,0,1,0,0,2,4
+Cal-Poly,7,bottom,0,Beesley,advanced on wild pitch,0,0,1,0,2,4
+Cal-Poly,7,bottom,1,DiCarlo,reached on a fielder's choice,0,0,0,0,2,4
+Cal-Poly,7,bottom,2,Taylor,struck out swinging.,0,0,0,0,2,4
+Cal-Poly,7,bottom,3,Cabrera,struck out looking.,0,0,0,0,2,4
+California,8,top,1,Smith,flied out,0,0,0,0,2,4
+California,8,top,2,McIlwain,grounded out,0,0,0,0,2,4
+California,8,top,3,Mack,struck out swinging.,0,0,0,0,2,4
+Cal-Poly,8,bottom,1,Samuelson,struck out looking.,0,0,0,0,2,4
+Cal-Poly,8,bottom,2,Emmerson,grounded out,0,0,0,0,2,4
+Cal-Poly,8,bottom,2,Gurnik,singled,1,0,0,0,2,4
+Cal-Poly,8,bottom,3,Cano,flied out,1,0,0,0,2,4
+California,9,top,0,Baker,singled,1,0,0,0,2,4
+California,9,top,0,Vaughn,advanced on wild pitch,0,1,0,0,2,4
+California,9,top,2,Lee,grounded into double play 2b,0,0,1,0,2,4
+California,9,top,3,Flower,struck out swinging.,0,0,1,0,2,4
+Cal-Poly,9,bottom,1,Greene,grounded out,0,0,0,0,2,4
+Cal-Poly,9,bottom,2,Beesley,struck out swinging.,0,0,0,0,2,4
+Cal-Poly,9,bottom,3,DiCarlo,struck out swinging.,0,0,0,0,2,4

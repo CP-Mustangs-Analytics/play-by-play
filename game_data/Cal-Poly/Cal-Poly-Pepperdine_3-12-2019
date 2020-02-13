@@ -1,0 +1,103 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,0,Gurnik,singled,1,0,0,0,0,0
+Cal-Poly,1,top,0,Gurnik,advanced on wild pitch,0,0,0,0,0,0
+Cal-Poly,1,top,0,Greene,singled,1,0,1,0,0,0
+Cal-Poly,1,top,0,Beesley,singled,1,1,0,1,0,1
+Cal-Poly,1,top,1,Samuelson,flied out,0,0,1,0,0,1
+Cal-Poly,1,top,1,Cabrera,singled,1,1,0,1,0,2
+Cal-Poly,1,top,3,Mackay,grounded into double play 2b,1,1,0,0,0,2
+Pepperdine,1,bottom,1,Young,struck out looking,0,0,0,0,0,2
+Pepperdine,1,bottom,1,McAfee,singled,1,0,0,0,0,2
+Pepperdine,1,bottom,1,Kanfer,walked,1,1,0,0,0,2
+Pepperdine,1,bottom,2,Cook,struck out looking,1,1,0,0,0,2
+Pepperdine,1,bottom,3,Welch,fouled out,1,1,0,0,0,2
+Cal-Poly,2,top,1,DiCarlo,struck out looking,0,0,0,0,0,2
+Cal-Poly,2,top,1,Taylor,singled,1,0,0,0,0,2
+Cal-Poly,2,top,1,Cano,singled,1,1,0,0,0,2
+Cal-Poly,2,top,2,Gurnik,struck out swinging,1,1,0,0,0,2
+Cal-Poly,2,top,2,Cano,advanced on wild pitch,0,1,1,0,0,2
+Cal-Poly,2,top,3,Greene,grounded out,0,1,1,0,0,2
+Pepperdine,2,bottom,1,Wills,struck out swinging,0,0,0,0,0,2
+Pepperdine,2,bottom,2,Modlin,flied out,0,0,0,0,0,2
+Pepperdine,2,bottom,3,Malinchak,struck out looking,0,0,0,0,0,2
+Cal-Poly,3,top,0,Beesley,singled,1,0,0,0,0,2
+Cal-Poly,3,top,1,Samuelson,struck out looking,1,0,0,0,0,2
+Cal-Poly,3,top,1,Cabrera,doubled,1,1,0,1,0,3
+Cal-Poly,3,top,1,Mackay,walked,1,1,0,0,0,3
+Cal-Poly,3,top,1,DiCarlo,singled,1,1,0,1,0,4
+Cal-Poly,3,top,2,Taylor,reached on a fielder's choice,0,0,1,0,0,4
+Cal-Poly,3,top,3,Cano,singled,1,0,1,0,0,4
+Pepperdine,3,bottom,1,Alexiades,grounded out,0,0,0,0,0,4
+Pepperdine,3,bottom,1,Young,singled,1,0,0,0,0,4
+Pepperdine,3,bottom,2,McAfee,flied out,1,0,0,0,0,4
+Pepperdine,3,bottom,2,Kanfer,doubled,1,1,0,1,1,4
+Pepperdine,3,bottom,2,Cook,hit by pitch,1,1,0,0,1,4
+Pepperdine,3,bottom,2,Welch,walked,1,1,1,0,1,4
+Pepperdine,3,bottom,2,Wills,walked,1,1,1,1,2,4
+Pepperdine,3,bottom,2,Modlin,singled,1,1,0,2,4,4
+Pepperdine,3,bottom,3,Malinchak,flied out,1,1,0,0,4,4
+Cal-Poly,4,top,1,Gurnik,struck out swinging,0,0,0,0,4,4
+Cal-Poly,4,top,2,Greene,lined out,0,0,0,0,4,4
+Cal-Poly,4,top,3,Beesley,lined out,0,0,0,0,4,4
+Pepperdine,4,bottom,1,Alexiades,struck out looking,0,0,0,0,4,4
+Pepperdine,4,bottom,1,Young,singled,1,0,0,0,4,4
+Pepperdine,4,bottom,2,McAfee,swinging,1,0,1,0,4,4
+Pepperdine,4,bottom,2,McAfee,stole,1,1,1,0,4,4
+Pepperdine,4,bottom,2,Kanfer,tripled,1,1,1,2,6,4
+Pepperdine,4,bottom,3,Cook,fouled out,1,1,1,0,6,4
+Cal-Poly,5,top,1,Welch,grounded out,0,0,0,0,6,4
+Cal-Poly,5,top,2,Samuelson,lined out,0,0,0,0,6,4
+Cal-Poly,5,top,3,Cabrera,struck out swinging,0,0,0,0,6,4
+Pepperdine,5,bottom,1,Mackay,struck out swinging,0,0,0,0,6,4
+Pepperdine,5,bottom,1,Wills,singled,1,0,0,0,6,4
+Pepperdine,5,bottom,2,Modlin,grounded out,0,1,0,0,6,4
+Pepperdine,5,bottom,2,Malinchak,singled,1,0,1,0,6,4
+Pepperdine,5,bottom,3,Alexiades,fouled out,1,0,1,0,6,4
+Cal-Poly,6,top,1,Young,grounded out,0,0,0,0,6,4
+Cal-Poly,6,top,1,DiCarlo,walked,1,0,0,0,6,4
+Cal-Poly,6,top,2,Taylor,grounded out,0,1,0,0,6,4
+Cal-Poly,6,top,3,Cano,fouled out,0,1,0,0,6,4
+Pepperdine,6,bottom,0,Gurnik,singled,1,0,0,1,7,4
+Pepperdine,6,bottom,0,Greene,walked,1,1,0,0,7,4
+Pepperdine,6,bottom,0,Beesley,singled,1,1,0,1,8,4
+Pepperdine,6,bottom,1,Samuelson,struck out swinging,1,1,0,0,8,4
+Pepperdine,6,bottom,1,Emmerson,,1,1,0,0,8,4
+Pepperdine,6,bottom,2,McAfee,grounded out,1,1,0,0,8,4
+Pepperdine,6,bottom,3,Kanfer,grounded out,1,1,0,0,8,4
+Cal-Poly,7,top,1,Cook,flied out,0,0,0,0,8,4
+Cal-Poly,7,top,2,Cabrera,grounded out,0,0,0,0,8,4
+Cal-Poly,7,top,2,Emmerson,walked,1,0,0,0,8,4
+Cal-Poly,7,top,2,DiCarlo,doubled,0,1,1,0,8,4
+Cal-Poly,7,top,2,Taylor,tripled,0,1,1,3,8,7
+Cal-Poly,7,top,3,Cano,struck out swinging,0,1,1,0,8,7
+Pepperdine,7,bottom,1,Gurnik,grounded out,0,0,0,0,8,7
+Pepperdine,7,bottom,1,Gurnik,,0,0,0,0,8,7
+Pepperdine,7,bottom,1,Kuzma,,0,0,0,0,8,7
+Pepperdine,7,bottom,2,Welch,grounded out,0,0,0,0,8,7
+Pepperdine,7,bottom,3,Wills,struck out swinging,0,0,0,0,8,7
+Cal-Poly,8,top,1,Modlin,struck out looking,0,0,0,0,8,7
+Cal-Poly,8,top,1,Greene,doubled,0,1,0,0,8,7
+Cal-Poly,8,top,1,Beesley,walked,1,1,0,0,8,7
+Cal-Poly,8,top,1,Samuelson,singled,1,1,0,1,8,8
+Cal-Poly,8,top,2,Cabrera,struck out looking,1,1,0,0,8,8
+Cal-Poly,8,top,2,Samuelson,advanced on wild pitch,0,0,1,0,8,8
+Cal-Poly,8,top,3,Emmerson,reached on a fielder's choice,0,0,1,0,8,8
+Pepperdine,8,bottom,0,DiCarlo,singled,1,1,0,1,9,8
+Pepperdine,8,bottom,1,Taylor,struck out swinging,1,1,0,0,9,8
+Pepperdine,8,bottom,1,Malinchak,singled,1,1,0,0,9,8
+Pepperdine,8,bottom,2,Alexiades,struck out swinging,1,1,0,0,9,8
+Pepperdine,8,bottom,4,Young,grounded into double play 2b,1,1,0,0,9,8
+Cal-Poly,9,top,0,Belk,,0,0,0,0,9,8
+Cal-Poly,9,top,0,Kuzma,walked,1,0,0,0,9,8
+Cal-Poly,9,top,0,Gurnik,singled,1,1,0,0,9,8
+Cal-Poly,9,top,1,Greene,singled,1,1,0,1,9,9
+Cal-Poly,9,top,1,Beesley,singled,1,0,1,0,9,9
+Cal-Poly,9,top,2,Samuelson,choice,1,0,1,1,9,10
+Cal-Poly,9,top,2,Cabrera,singled,1,1,0,0,9,10
+Cal-Poly,9,top,3,Emmerson,grounded out,1,1,0,0,9,10
+Pepperdine,9,bottom,0,McAfee,singled,1,0,0,0,9,10
+Pepperdine,9,bottom,0,Kanfer,singled,1,1,0,0,9,10
+Pepperdine,9,bottom,0,Belk,singled,1,1,0,1,10,10
+Pepperdine,9,bottom,1,Welch,fouled out,1,1,0,0,10,10
+Pepperdine,9,bottom,2,Wills,popped up,1,1,0,0,10,10
+Pepperdine,9,bottom,3,Modlin,grounded out,1,1,0,0,10,10

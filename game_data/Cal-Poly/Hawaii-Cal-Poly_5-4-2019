@@ -1,0 +1,79 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Hawaii,1,top,1,"Scott,S.",struck out looking,0,0,0,0,0,0
+Hawaii,1,top,1,"Best,T.",doubled,0,1,0,0,0,0
+Hawaii,1,top,2,"Yamazaki,M.",flied out,0,1,0,0,0,0
+Hawaii,1,top,3,"Lopez,E.",grounded out,0,1,0,0,0,0
+Cal-Poly,1,bottom,2,Gurnik,swinging,0,0,0,0,0,0
+Cal-Poly,1,bottom,3,Greene,flied out,0,0,0,0,0,0
+Hawaii,2,top,1,Beesley,flied out,0,0,0,0,0,0
+Hawaii,2,top,3,"Baeza,A.",swinging,0,0,0,0,0,0
+Cal-Poly,2,bottom,1,"Calicdan,D.",lined out,0,0,0,0,0,0
+Cal-Poly,2,bottom,1,"Duarte,D.",singled,1,0,0,0,0,0
+Cal-Poly,2,bottom,1,"Murray,T.",singled,1,0,1,0,0,0
+Cal-Poly,2,bottom,2,"Kennelly,J.",struck out swinging,1,0,1,0,0,0
+Cal-Poly,2,bottom,2,Samuelson,doubled,1,1,1,0,0,0
+Cal-Poly,2,bottom,3,Sands,flied out,1,1,1,0,0,0
+Hawaii,3,top,0,Samuelson,advanced on wild pitch,0,0,1,0,0,0
+Hawaii,3,top,2,DiCarlo,swinging,0,0,1,0,0,0
+Hawaii,3,top,2,Emmerson,reached on a throwing error by 3b,0,0,1,1,0,1
+Hawaii,3,top,3,Cabrera,flied out,0,0,1,0,0,1
+Cal-Poly,3,bottom,1,"Scott,S.",flied out,0,0,0,0,0,1
+Cal-Poly,3,bottom,1,"Best,T.",singled,1,0,0,0,0,1
+Cal-Poly,3,bottom,1,"Yamazaki,M.",singled,1,1,0,0,0,1
+Cal-Poly,3,bottom,1,"Lopez,E.",doubled,1,1,0,2,2,1
+Cal-Poly,3,bottom,2,"Baeza,A.",grounded out,0,0,1,0,2,1
+Cal-Poly,3,bottom,4,"Calicdan,D.",swinging,0,0,1,0,2,1
+Hawaii,4,top,1,Kuzma,struck out looking,0,0,0,0,2,1
+Hawaii,4,top,1,Gurnik,hit by pitch,1,0,0,0,2,1
+Hawaii,4,top,1,Greene,singled,1,1,0,0,2,1
+Hawaii,4,top,1,Beesley,singled,1,1,0,1,2,2
+Hawaii,4,top,2,Samuelson,flied out,1,1,0,0,2,2
+Hawaii,4,top,2,Beesley,advanced on wild pitch,0,1,1,0,2,2
+Hawaii,4,top,2,Sands,walked,1,1,1,0,2,2
+Hawaii,4,top,3,DiCarlo,flied out,1,1,1,0,2,2
+Cal-Poly,4,bottom,1,"Duarte,D.",swinging,0,0,0,0,2,2
+Cal-Poly,4,bottom,2,"Murray,T.",struck out swinging,0,0,0,0,2,2
+Cal-Poly,4,bottom,3,"Kennelly,J.",struck out swinging,0,0,0,0,2,2
+Hawaii,5,top,0,"Scott,S.",walked,1,0,0,0,2,2
+Hawaii,5,top,1,"Best,T.",out at first 1b,1,0,0,0,2,2
+Hawaii,5,top,2,Emmerson,flied out,1,0,0,0,2,2
+Hawaii,5,top,2,Cabrera,doubled,1,1,0,0,2,2
+Hawaii,5,top,3,Kuzma,grounded out,0,0,1,0,2,2
+Cal-Poly,5,bottom,1,Gurnik,flied out,0,0,0,0,2,2
+Cal-Poly,5,bottom,2,"Yamazaki,M.",flied out,0,0,0,0,2,2
+Cal-Poly,5,bottom,3,"Lopez,E.",grounded out,0,0,0,0,2,2
+Hawaii,6,top,0,"Baeza,A.",walked,1,0,0,0,2,2
+Hawaii,6,top,1,"Calicdan,D.",flied out,1,0,0,0,2,2
+Hawaii,6,top,2,Greene,grounded out,1,0,0,0,2,2
+Hawaii,6,top,3,Beesley,lined out,1,0,0,0,2,2
+Cal-Poly,6,bottom,0,Samuelson,walked,1,0,0,0,2,2
+Cal-Poly,6,bottom,0,Sands,singled,1,1,0,0,2,2
+Cal-Poly,6,bottom,1,DiCarlo,doubled,0,1,0,1,3,2
+Cal-Poly,6,bottom,2,"Duarte,D.",fouled out,0,1,0,0,3,2
+Cal-Poly,6,bottom,2,"Murray,T.",singled,1,1,0,0,3,2
+Cal-Poly,6,bottom,4,"Kennelly,J.",grounded into double play 2b,1,1,0,0,3,2
+Hawaii,7,top,0,Emmerson,singled,1,0,0,0,3,2
+Hawaii,7,top,1,Cabrera,fouled out,1,0,0,0,3,2
+Hawaii,7,top,2,Kuzma,grounded out,0,1,0,0,3,2
+Hawaii,7,top,3,Gurnik,grounded out,0,1,0,0,3,2
+Cal-Poly,7,bottom,1,"Scott,S.",flied out,0,0,0,0,3,2
+Cal-Poly,7,bottom,1,"Best,T.",singled,1,0,0,0,3,2
+Cal-Poly,7,bottom,1,"Yamazaki,M.",singled,1,1,0,0,3,2
+Cal-Poly,7,bottom,2,"Lopez,E.",struck out swinging,1,1,0,0,3,2
+Cal-Poly,7,bottom,3,"Baeza,A.",lined out,1,1,0,0,3,2
+Hawaii,8,top,1,Greene,flied out,0,0,0,0,3,2
+Hawaii,8,top,2,Beesley,grounded out,0,0,0,0,3,2
+Hawaii,8,top,3,Samuelson,grounded out,0,0,0,0,3,2
+Cal-Poly,8,bottom,1,"Calicdan,D.",fouled out,0,0,0,0,3,2
+Cal-Poly,8,bottom,2,"Duarte,D.",grounded out,0,0,0,0,3,2
+Cal-Poly,8,bottom,3,"Murray,T.",struck out looking,0,0,0,0,3,2
+Hawaii,9,top,1,Sands,struck out looking,0,0,0,0,3,2
+Hawaii,9,top,2,DiCarlo,grounded out,0,0,0,0,3,2
+Hawaii,9,top,2,Emmerson,walked,1,0,0,0,3,2
+Hawaii,9,top,3,Cabrera,grounded out,1,0,0,0,3,2
+Cal-Poly,9,bottom,0,"Hancock,B.",singled,1,0,0,0,3,2
+Cal-Poly,9,bottom,0,"Butler,C.",Hancock,1,0,0,0,3,2
+Cal-Poly,9,bottom,1,"Scott,S.",grounded out,0,1,0,0,3,2
+Cal-Poly,9,bottom,2,"Best,T.",flied out,0,1,0,0,3,2
+Cal-Poly,9,bottom,2,"Yamazaki,M.",walked,1,1,0,0,3,2
+Cal-Poly,9,bottom,3,"Lopez,E.",flied out,1,1,0,0,3,2

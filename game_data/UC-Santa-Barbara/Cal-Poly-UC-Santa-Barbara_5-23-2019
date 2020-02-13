@@ -1,0 +1,69 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,"Beesley,Bradlee",grounded out,0,0,0,0,0,0
+Cal-Poly,1,top,1,"Greene,Elijah",walked.,1,0,0,0,0,0
+Cal-Poly,1,top,1,"Samuelson,Tate",homered,1,0,0,2,0,2
+Cal-Poly,1,top,2,"Sands,Conagher",struck out swinging.,1,0,0,0,0,2
+Cal-Poly,1,top,3,"Emmerson,Myles",flied out,1,0,0,0,0,2
+UC-Santa-Barbara,1,bottom,1,"O'Connor,McClain",grounded out,0,0,0,0,0,2
+UC-Santa-Barbara,1,bottom,2,"Martinez,Andrew",flied out,0,0,0,0,0,2
+UC-Santa-Barbara,1,bottom,2,"Yang,Eric",walked.,1,0,0,0,0,2
+UC-Santa-Barbara,1,bottom,3,"Rowan,Thomas",struck out looking.,1,0,0,0,0,2
+Cal-Poly,2,top,1,"DiCarlo,Nick",flied out,0,0,0,0,0,2
+Cal-Poly,2,top,2,"Gurnik,Connor",struck out swinging.,0,0,0,0,0,2
+Cal-Poly,2,top,3,"Cabrera,Cole",struck out swinging.,0,0,0,0,0,2
+UC-Santa-Barbara,2,bottom,1,"Smith,Armani",struck out swinging.,0,0,0,0,0,2
+UC-Santa-Barbara,2,bottom,2,"Jew,Tommy",flied out,0,0,0,0,0,2
+UC-Santa-Barbara,2,bottom,3,"Castanon,Marcos",struck out swinging.,0,0,0,0,0,2
+Cal-Poly,3,top,1,"Kuzma,Jack",struck out looking.,0,0,0,0,0,2
+Cal-Poly,3,top,2,"Beesley,Bradlee",flied out,0,0,0,0,0,2
+Cal-Poly,3,top,3,"Greene,Elijah",lined out,0,0,0,0,0,2
+UC-Santa-Barbara,3,bottom,0,"Johnson,Kyle",walked.,1,0,0,0,0,2
+UC-Santa-Barbara,3,bottom,1,"Mitchell,Tevin",flied out,1,0,0,0,0,2
+UC-Santa-Barbara,3,bottom,2,"O'Connor,McClain",flied out,1,0,0,0,0,2
+UC-Santa-Barbara,3,bottom,3,"Martinez,Andrew",struck out swinging.,1,0,0,0,0,2
+Cal-Poly,4,top,0,"Samuelson,Tate",reached first on an error by 3b.,0,0,0,0,0,2
+Cal-Poly,4,top,0,"Sands,Conagher",singled,1,0,1,0,0,2
+Cal-Poly,4,top,1,"Emmerson,Myles",flied out,1,0,1,0,0,2
+Cal-Poly,4,top,2,"DiCarlo,Nick",singled,1,0,1,1,0,3
+Cal-Poly,4,top,2,"Gurnik,Connor",DiCarlo,1,1,0,0,0,3
+Cal-Poly,4,top,3,"Cabrera,Cole",flied out,1,1,0,0,0,3
+UC-Santa-Barbara,4,bottom,1,"Yang,Eric",fouled out,0,0,0,0,0,3
+UC-Santa-Barbara,4,bottom,2,"Rowan,Thomas",flied out,0,0,0,0,0,3
+UC-Santa-Barbara,4,bottom,3,"Smith,Armani",grounded out,0,0,0,0,0,3
+Cal-Poly,5,top,1,"Kuzma,Jack",flied out,0,0,0,0,0,3
+Cal-Poly,5,top,2,"Beesley,Bradlee",struck out looking.,0,0,0,0,0,3
+Cal-Poly,5,top,3,"Greene,Elijah",grounded out,0,0,0,0,0,3
+UC-Santa-Barbara,5,bottom,1,"Jew,Tommy",flied out,0,0,0,0,0,3
+UC-Santa-Barbara,5,bottom,2,"Castanon,Marcos",struck out swinging.,0,0,0,0,0,3
+UC-Santa-Barbara,5,bottom,3,"Johnson,Kyle",grounded out,0,0,0,0,0,3
+Cal-Poly,6,top,1,"Samuelson,Tate",flied out,0,0,0,0,0,3
+Cal-Poly,6,top,1,"Sands,Conagher",singled,1,0,0,0,0,3
+Cal-Poly,6,top,3,"Emmerson,Myles",grounded into double play ss,1,0,0,0,0,3
+UC-Santa-Barbara,6,bottom,1,"Mitchell,Tevin",struck out swinging.,0,0,0,0,0,3
+UC-Santa-Barbara,6,bottom,2,"O'Connor,McClain",grounded out,0,0,0,0,0,3
+UC-Santa-Barbara,6,bottom,2,"Martinez,Andrew",singled,1,0,0,0,0,3
+UC-Santa-Barbara,6,bottom,2,"Yang,Eric",singled,1,0,1,0,0,3
+UC-Santa-Barbara,6,bottom,3,"Rowan,Thomas",grounded out,1,0,1,0,0,3
+Cal-Poly,7,top,1,"DiCarlo,Nick",fouled out,0,0,0,0,0,3
+Cal-Poly,7,top,2,"Gurnik,Connor",flied out,0,0,0,0,0,3
+Cal-Poly,7,top,3,"Cabrera,Cole",flied out,0,0,0,0,0,3
+UC-Santa-Barbara,7,bottom,1,"Smith,Armani",flied out,0,0,0,0,0,3
+UC-Santa-Barbara,7,bottom,2,"Jew,Tommy",struck out swinging.,0,0,0,0,0,3
+UC-Santa-Barbara,7,bottom,3,"Castanon,Marcos",struck out looking.,0,0,0,0,0,3
+Cal-Poly,8,top,1,"Kuzma,Jack",flied out,0,0,0,0,0,3
+Cal-Poly,8,top,2,"Beesley,Bradlee",flied out,0,0,0,0,0,3
+Cal-Poly,8,top,2,"Greene,Elijah",singled,1,0,0,0,0,3
+Cal-Poly,8,top,3,"Samuelson,Tate",flied out,1,0,0,0,0,3
+UC-Santa-Barbara,8,bottom,0,"Taylor,Noah",,0,0,0,0,0,3
+UC-Santa-Barbara,8,bottom,0,"Johnson,Kyle",walked.,1,0,0,0,0,3
+UC-Santa-Barbara,8,bottom,1,"Mitchell,Tevin",struck out swinging.,1,0,0,0,0,3
+UC-Santa-Barbara,8,bottom,2,"O'Connor,McClain",struck out swinging.,1,0,0,0,0,3
+UC-Santa-Barbara,8,bottom,3,"Martinez,Andrew",struck out swinging.,1,0,0,0,0,3
+Cal-Poly,9,top,1,"Sands,Conagher",flied out,0,0,0,0,0,3
+Cal-Poly,9,top,2,"Emmerson,Myles",popped up,0,0,0,0,0,3
+Cal-Poly,9,top,2,"DiCarlo,Nick",singled,1,0,0,0,0,3
+Cal-Poly,9,top,2,"DiCarlo,Nick",advanced on wild pitch,0,1,0,0,0,3
+Cal-Poly,9,top,3,"Gurnik,Connor",struck out swinging.,0,1,0,0,0,3
+UC-Santa-Barbara,9,bottom,1,"Yang,Eric",struck out swinging.,0,0,0,0,0,3
+UC-Santa-Barbara,9,bottom,2,"Rowan,Thomas",flied out,0,0,0,0,0,3
+UC-Santa-Barbara,9,bottom,3,"Smith,Armani",flied out,0,0,0,0,0,3

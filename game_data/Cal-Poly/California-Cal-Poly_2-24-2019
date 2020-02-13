@@ -1,0 +1,88 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+California,1,top,1,Baker,flied out,0,0,0,0,0,0
+California,1,top,2,Vaughn,struck out looking,0,0,0,0,0,0
+California,1,top,3,Lee,grounded out,0,0,0,0,0,0
+Cal-Poly,1,bottom,1,Greene,grounded out,0,0,0,0,0,0
+Cal-Poly,1,bottom,2,Gurnik,grounded out,0,0,0,0,0,0
+Cal-Poly,1,bottom,3,Beesley,fouled out,0,0,0,0,0,0
+California,2,top,1,Flower,grounded out,0,0,0,0,0,0
+California,2,top,3,Lagattuta,swinging,0,0,0,0,0,0
+Cal-Poly,2,bottom,1,Eden,flied out,0,0,0,0,0,0
+Cal-Poly,2,bottom,2,DiCarlo,grounded out,0,0,0,0,0,0
+Cal-Poly,2,bottom,3,Samuelson,flied out,0,0,0,0,0,0
+California,3,top,0,Mackay,singled,1,0,0,0,0,0
+California,3,top,0,Cabrera,walked,1,1,0,0,0,0
+California,3,top,1,Emmerson,out at first 1b,1,1,0,0,0,0
+California,3,top,2,Wezniak,lined out,1,1,0,0,0,0
+California,3,top,3,McIlwain,flied out,1,1,0,0,0,0
+Cal-Poly,3,bottom,1,Smith,flied out,0,0,0,0,0,0
+Cal-Poly,3,bottom,2,Cano,flied out,0,0,0,0,0,0
+Cal-Poly,3,bottom,2,Greene,doubled,0,1,0,0,0,0
+Cal-Poly,3,bottom,2,Gurnik,singled,1,0,1,0,0,0
+Cal-Poly,3,bottom,3,Beesley,flied out,1,0,1,0,0,0
+California,4,top,0,Gurnik,advanced on wild pitch,0,1,0,0,0,0
+California,4,top,1,DiCarlo,fouled out,0,1,0,0,0,0
+California,4,top,2,Baker,struck out swinging,0,1,0,0,0,0
+California,4,top,3,Vaughn,flied out,0,1,0,0,0,0
+Cal-Poly,4,bottom,1,Lee,grounded out,0,0,0,0,0,0
+Cal-Poly,4,bottom,2,Samuelson,grounded out,0,0,0,0,0,0
+Cal-Poly,4,bottom,2,Mackay,singled,1,0,0,0,0,0
+Cal-Poly,4,bottom,2,Cabrera,singled,1,0,1,0,0,0
+Cal-Poly,4,bottom,3,Emmerson,reached on a fielder's choice,0,1,0,0,0,0
+California,5,top,2,Cano,swinging,0,0,0,0,0,0
+California,5,top,3,Flower,grounded out,0,0,0,0,0,0
+Cal-Poly,5,bottom,0,Lagattuta,singled,1,0,0,0,0,0
+Cal-Poly,5,bottom,1,Eden,flied out,1,0,0,0,0,0
+Cal-Poly,5,bottom,1,Cabrera,crashing into wall,1,0,0,0,0,0
+Cal-Poly,5,bottom,2,Wezniak,reached on a fielder's choice,1,0,0,0,0,0
+Cal-Poly,5,bottom,3,Greene,grounded out,1,0,0,0,0,0
+California,6,top,1,Gurnik,grounded out,0,0,0,0,0,0
+California,6,top,2,Beesley,flied out,0,0,0,0,0,0
+California,6,top,3,McIlwain,flied out,0,0,0,0,0,0
+Cal-Poly,6,bottom,0,,fly ball,0,0,0,0,0,0
+Cal-Poly,6,bottom,0,Smith,walked,1,0,0,0,0,0
+Cal-Poly,6,bottom,1,Baker,grounded out,0,1,0,0,0,0
+Cal-Poly,6,bottom,1,Vaughn,intentionally walked.,1,1,0,0,0,0
+Cal-Poly,6,bottom,2,Lee,reached on a fielder's choice,1,1,0,0,0,0
+Cal-Poly,6,bottom,3,DiCarlo,struck out swinging,1,1,0,0,0,0
+California,7,top,0,Samuelson,walked,1,0,0,0,0,0
+California,7,top,0,Mackay,hit by pitch,1,1,0,0,0,0
+California,7,top,0,Cabrera,singled,1,1,0,1,0,1
+California,7,top,0,Emmerson,walked,1,1,1,0,0,1
+California,7,top,1,Cano,reached on a fielder's choice,0,0,0,2,0,3
+California,7,top,2,Greene,flied out,0,0,0,0,0,3
+California,7,top,3,Flower,grounded out,0,0,0,0,0,3
+Cal-Poly,7,bottom,1,Lagattuta,flied out,0,0,0,0,0,3
+Cal-Poly,7,bottom,2,Eden,grounded out,0,0,0,0,0,3
+Cal-Poly,7,bottom,3,Gurnik,grounded out,0,0,0,0,0,3
+California,8,top,1,Beesley,flied out,0,0,0,0,0,3
+California,8,top,1,DiCarlo,walked,1,0,0,0,0,3
+California,8,top,2,Samuelson,flied out,1,0,0,0,0,3
+California,8,top,2,Wezniak,singled,1,0,0,0,0,3
+California,8,top,2,McIlwain,singled,1,1,0,0,0,3
+California,8,top,2,Smith,hit by pitch,1,1,1,0,0,3
+California,8,top,3,Baker,out at first 1b,0,1,1,1,0,4
+Cal-Poly,8,bottom,0,Vaughn,intentionally walked.,1,0,0,0,0,4
+Cal-Poly,8,bottom,0,Lee,doubled,0,1,1,2,2,4
+Cal-Poly,8,bottom,1,Flower,reached on a fielder's choice,0,0,1,0,2,4
+Cal-Poly,8,bottom,1,Mack,walked,1,1,0,0,2,4
+Cal-Poly,8,bottom,2,Eden,flied out,1,1,0,0,2,4
+Cal-Poly,8,bottom,2,Mackay,singled,1,1,0,0,2,4
+Cal-Poly,8,bottom,2,Wagenseller,pinch ran for Mackay.,1,1,0,0,2,4
+Cal-Poly,8,bottom,3,Cabrera,out at first 1b,0,1,0,0,2,4
+California,9,top,1,Emmerson,grounded out,0,0,1,0,2,4
+California,9,top,1,Cano,walked,1,0,1,0,2,4
+California,9,top,2,Greene,grounded out,1,0,1,0,2,4
+California,9,top,2,Wezniak,reached on a fielding error by ss,1,0,1,0,2,4
+California,9,top,2,McIlwain,walked,1,1,0,0,2,4
+California,9,top,4,Smith,lined into double play 3b,1,1,0,0,2,4
+Cal-Poly,9,bottom,0,Baker,singled,1,1,0,0,2,4
+Cal-Poly,9,bottom,0,Vaughn,advanced on wild pitch,1,1,1,0,2,4
+Cal-Poly,9,bottom,0,Lee,singled,0,0,1,2,4,4
+Cal-Poly,9,bottom,0,Flower,walked,1,0,1,0,4,4
+Cal-Poly,9,bottom,1,Mack,flied out,1,0,1,0,4,4
+Cal-Poly,9,bottom,2,Gurnik,struck out swinging,1,0,1,0,4,4
+Cal-Poly,9,bottom,2,Beesley,doubled,1,1,1,0,4,4
+Cal-Poly,9,bottom,3,DiCarlo,struck out looking,1,1,1,0,4,4
+California,10,top,0,Samuelson,hit by pitch,1,0,0,0,4,4
+California,10,top,1,Wagenseller,reached on a fielder's choice,1,0,0,0,4,4

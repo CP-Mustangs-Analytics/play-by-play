@@ -1,0 +1,79 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,Gurnik,grounded out,0,0,0,0,0,0
+Cal-Poly,1,top,2,Greene,grounded out,0,0,0,0,0,0
+Cal-Poly,1,top,2,Beesley,singled,1,0,0,0,0,0
+Cal-Poly,1,top,2,Samuelson,walked,1,1,0,0,0,0
+Cal-Poly,1,top,2,Cabrera,walked,1,1,1,0,0,0
+Cal-Poly,1,top,2,Taylor,singled,1,1,1,1,0,1
+Cal-Poly,1,top,3,DiCarlo,flied out,1,1,1,0,0,1
+Baylor,1,bottom,0,Loftin,walked,1,0,0,0,0,1
+Baylor,1,bottom,1,"Cunningham,R",popped up,1,0,0,0,0,1
+Baylor,1,bottom,1,Wendzel,hit by pitch,1,1,0,0,0,1
+Baylor,1,bottom,1,Downey,walked,1,1,1,0,0,1
+Baylor,1,bottom,2,Langeliers,struck out looking,1,1,1,0,0,1
+Baylor,1,bottom,3,"Thomas,A.",struck out swinging,1,1,1,0,0,1
+Cal-Poly,2,top,1,Emmerson,grounded out,0,0,0,0,0,1
+Cal-Poly,2,top,2,Cano,grounded out,0,0,0,0,0,1
+Cal-Poly,2,top,3,Gurnik,grounded out,0,0,0,0,0,1
+Baylor,2,bottom,1,Bissonette,flied out,0,0,0,0,0,1
+Baylor,2,bottom,2,Haring,struck out looking,0,0,0,0,0,1
+Baylor,2,bottom,3,Wehsener,grounded out,0,0,0,0,0,1
+Cal-Poly,3,top,0,Greene,walked,1,0,0,0,0,1
+Cal-Poly,3,top,0,Greene,advanced on wild pitch,0,0,0,0,0,1
+Cal-Poly,3,top,1,Beesley,flied out,0,0,0,0,0,1
+Cal-Poly,3,top,1,Samuelson,singled,1,0,0,0,0,1
+Cal-Poly,3,top,3,Cabrera,flied into double play lf,1,0,0,0,0,1
+Baylor,3,bottom,1,Loftin,grounded out,0,0,0,0,0,1
+Baylor,3,bottom,1,"Cunningham,R",singled,1,0,0,0,0,1
+Baylor,3,bottom,3,Wendzel,grounded into double play 2b,1,0,0,0,0,1
+Cal-Poly,4,top,0,Taylor,singled,1,0,0,0,0,1
+Cal-Poly,4,top,1,DiCarlo,grounded out,0,1,0,0,0,1
+Cal-Poly,4,top,2,Emmerson,reached on a fielder's choice,0,1,0,0,0,1
+Cal-Poly,4,top,3,Cano,grounded out,0,1,0,0,0,1
+Baylor,4,bottom,1,Downey,flied out,0,0,0,0,0,1
+Baylor,4,bottom,2,Langeliers,grounded out,0,0,0,0,0,1
+Baylor,4,bottom,2,"Thomas,A.",singled,1,0,0,0,0,1
+Baylor,4,bottom,3,Bissonette,grounded out,1,0,0,0,0,1
+Cal-Poly,5,top,1,Gurnik,grounded out,0,0,0,0,0,1
+Cal-Poly,5,top,2,Greene,out at first 1b,0,0,0,0,0,1
+Cal-Poly,5,top,3,Beesley,flied out,0,0,0,0,0,1
+Baylor,5,bottom,0,Haring,doubled,0,1,0,0,0,1
+Baylor,5,bottom,0,Haring,stole,0,1,0,1,1,1
+Baylor,5,bottom,0,Wehsener,walked,1,1,0,0,1,1
+Baylor,5,bottom,1,Loftin,out at first p,0,1,0,0,1,1
+Baylor,5,bottom,2,"Cunningham,R",fouled out,0,1,0,0,1,1
+Baylor,5,bottom,3,Wendzel,flied out,0,1,0,0,1,1
+Cal-Poly,6,top,0,Samuelson,singled,1,0,0,0,1,1
+Cal-Poly,6,top,0,Cabrera,singled,1,1,0,0,1,1
+Cal-Poly,6,top,0,Taylor,hit by pitch,1,1,1,0,1,1
+Cal-Poly,6,top,0,DiCarlo,singled,1,1,0,2,1,3
+Cal-Poly,6,top,1,Taylor,out at second c,1,1,0,0,1,3
+Cal-Poly,6,top,2,Emmerson,struck out looking,1,1,0,0,1,3
+Cal-Poly,6,top,3,Cano,flied out,1,1,0,0,1,3
+Baylor,6,bottom,1,Downey,grounded out,0,0,0,0,1,3
+Baylor,6,bottom,2,Langeliers,lined out,0,0,0,0,1,3
+Baylor,6,bottom,2,"Thomas,A.",walked,1,0,0,0,1,3
+Baylor,6,bottom,3,Bissonette,popped up,1,0,0,0,1,3
+Cal-Poly,7,top,1,Gurnik,fouled out,0,0,0,0,1,3
+Cal-Poly,7,top,2,Greene,grounded out,0,0,0,0,1,3
+Cal-Poly,7,top,3,Beesley,grounded out,0,0,0,0,1,3
+Baylor,7,bottom,0,Gurnik,,0,0,0,0,1,3
+Baylor,7,bottom,0,Doherty,,0,0,0,0,1,3
+Baylor,7,bottom,1,Haring,popped up,0,0,0,0,1,3
+Baylor,7,bottom,2,Wehsener,struck out swinging,0,0,0,0,1,3
+Baylor,7,bottom,3,Loftin,struck out looking,0,0,0,0,1,3
+Cal-Poly,8,top,0,Samuelson,singled,1,0,0,0,1,3
+Cal-Poly,8,top,1,Cabrera,grounded out,0,1,0,0,1,3
+Cal-Poly,8,top,2,Taylor,struck out swinging,0,1,0,0,1,3
+Cal-Poly,8,top,3,DiCarlo,grounded out,0,1,0,0,1,3
+Baylor,8,bottom,1,"Cunningham,R",struck out looking,0,0,0,0,1,3
+Baylor,8,bottom,1,Wendzel,singled,1,0,0,0,1,3
+Baylor,8,bottom,1,Downey,singled,1,0,1,0,1,3
+Baylor,8,bottom,3,Langeliers,grounded into double play ss,1,0,1,0,1,3
+Cal-Poly,9,top,1,Emmerson,grounded out,0,0,0,0,1,3
+Cal-Poly,9,top,2,Doherty,out at first 1b,0,0,0,0,1,3
+Cal-Poly,9,top,3,Gurnik,grounded out,0,0,0,0,1,3
+Baylor,9,bottom,1,"Thomas,A.",grounded out,0,0,0,0,1,3
+Baylor,9,bottom,2,Bissonette,grounded out,0,0,0,0,1,3
+Baylor,9,bottom,2,Haring,singled,1,0,0,0,1,3
+Baylor,9,bottom,3,"Martinez,R.",reached on a fielder's choice,1,0,0,0,1,3

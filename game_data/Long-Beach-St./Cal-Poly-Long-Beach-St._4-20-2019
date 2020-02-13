@@ -1,0 +1,85 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,1,Gurnik,struck out swinging,0,0,0,0,0,0
+Cal-Poly,1,top,1,Greene,singled,1,0,0,0,0,0
+Cal-Poly,1,top,1,Beesley,doubled,1,1,0,1,0,1
+Cal-Poly,1,top,1,Samuelson,walked,1,1,0,0,0,1
+Cal-Poly,1,top,1,Beesley,stole,1,1,1,0,0,1
+Cal-Poly,1,top,1,Sands,doubled,0,1,1,1,0,2
+Cal-Poly,1,top,1,Cabrera,singled,1,0,1,1,0,3
+Cal-Poly,1,top,1,DiCarlo,singled,1,1,0,1,0,4
+Cal-Poly,1,top,2,Cabrera,out at second p,1,1,0,0,0,4
+Cal-Poly,1,top,2,DiCarlo,advanced on wild pitch,0,1,0,0,0,4
+Cal-Poly,1,top,2,Emmerson,walked,1,1,0,0,0,4
+Cal-Poly,1,top,3,Kuzma,lined out,1,1,0,0,0,4
+Long-Beach-St.,1,bottom,0,Jimenez,walked,1,0,0,0,0,4
+Long-Beach-St.,1,bottom,0,Hughey,singled,1,1,0,0,0,4
+Long-Beach-St.,1,bottom,1,Huffman,choice,0,1,0,0,0,4
+Long-Beach-St.,1,bottom,2,Luttrell,lined out,0,1,0,0,0,4
+Long-Beach-St.,1,bottom,3,Carlino,flied out,0,1,0,0,0,4
+Cal-Poly,2,top,1,Gurnik,grounded out,0,0,0,0,0,4
+Cal-Poly,2,top,2,Greene,struck out swinging,0,0,0,0,0,4
+Cal-Poly,2,top,3,Beesley,grounded out,0,0,0,0,0,4
+Long-Beach-St.,2,bottom,1,Rivera,popped up,0,0,0,0,0,4
+Long-Beach-St.,2,bottom,1,VanderWal,walked,1,0,0,0,0,4
+Long-Beach-St.,2,bottom,1,Hogan,homered,1,0,0,2,2,4
+Long-Beach-St.,2,bottom,2,Stotler,grounded out,1,0,0,0,2,4
+Long-Beach-St.,2,bottom,2,Jimenez,singled,1,0,0,0,2,4
+Long-Beach-St.,2,bottom,2,Hughey,singled,1,0,1,0,2,4
+Long-Beach-St.,2,bottom,2,Hughey,stole,1,1,1,0,2,4
+Long-Beach-St.,2,bottom,2,Huffman,singled,1,1,1,2,4,4
+Long-Beach-St.,2,bottom,3,Luttrell,grounded out,1,1,1,0,4,4
+Cal-Poly,3,top,1,Samuelson,flied out,0,0,0,0,4,4
+Cal-Poly,3,top,2,Sands,flied out,0,0,0,0,4,4
+Cal-Poly,3,top,3,Cabrera,struck out swinging,0,0,0,0,4,4
+Long-Beach-St.,3,bottom,1,Carlino,out at first p,0,0,0,0,4,4
+Long-Beach-St.,3,bottom,2,Rivera,grounded out,0,0,0,0,4,4
+Long-Beach-St.,3,bottom,2,VanderWal,walked,1,0,0,0,4,4
+Long-Beach-St.,3,bottom,2,Hogan,singled,1,1,0,0,4,4
+Long-Beach-St.,3,bottom,3,Stotler,struck out swinging,1,1,0,0,4,4
+Cal-Poly,4,top,1,DiCarlo,grounded out,0,0,0,0,4,4
+Cal-Poly,4,top,1,Emmerson,doubled,0,1,0,0,4,4
+Cal-Poly,4,top,1,Kuzma,singled,1,0,1,0,4,4
+Cal-Poly,4,top,2,Gurnik,struck out swinging,1,0,1,0,4,4
+Cal-Poly,4,top,2,Greene,singled,1,1,0,1,4,5
+Cal-Poly,4,top,3,Beesley,lined out,1,1,0,0,4,5
+Long-Beach-St.,4,bottom,0,Jimenez,singled,1,0,0,0,4,5
+Long-Beach-St.,4,bottom,1,Hughey,reached on a fielder's choice,1,0,0,0,4,5
+Long-Beach-St.,4,bottom,2,Huffman,out at first 3b,0,1,0,0,4,5
+Long-Beach-St.,4,bottom,3,Luttrell,popped up,0,1,0,0,4,5
+Cal-Poly,5,top,1,Samuelson,struck out swinging,0,0,0,0,4,5
+Cal-Poly,5,top,2,Sands,struck out swinging,0,0,0,0,4,5
+Cal-Poly,5,top,3,Cabrera,struck out looking,0,0,0,0,4,5
+Long-Beach-St.,5,bottom,1,Malm,lined out,0,0,0,0,4,5
+Long-Beach-St.,5,bottom,2,Rivera,struck out swinging,0,0,0,0,4,5
+Long-Beach-St.,5,bottom,3,VanderWal,grounded out,0,0,0,0,4,5
+Cal-Poly,6,top,0,DiCarlo,singled,1,0,0,0,4,5
+Cal-Poly,6,top,1,Emmerson,fouled out,1,0,0,0,4,5
+Cal-Poly,6,top,1,DiCarlo,advanced on wild pitch,0,0,0,0,4,5
+Cal-Poly,6,top,2,Kuzma,struck out looking,0,0,0,0,4,5
+Cal-Poly,6,top,3,Gurnik,popped up,0,0,0,0,4,5
+Long-Beach-St.,6,bottom,0,Hogan,singled,1,0,0,0,4,5
+Long-Beach-St.,6,bottom,1,Stotler,out at first p,0,1,0,0,4,5
+Long-Beach-St.,6,bottom,2,Jimenez,grounded out,0,1,0,0,4,5
+Long-Beach-St.,6,bottom,3,Hughey,struck out swinging,0,1,0,0,4,5
+Cal-Poly,7,top,1,Greene,grounded out,0,0,0,0,4,5
+Cal-Poly,7,top,2,Beesley,grounded out,0,0,0,0,4,5
+Cal-Poly,7,top,3,Samuelson,popped up,0,0,0,0,4,5
+Long-Beach-St.,7,bottom,1,Huffman,grounded out,0,0,0,0,4,5
+Long-Beach-St.,7,bottom,1,Luttrell,singled,1,0,0,0,4,5
+Long-Beach-St.,7,bottom,2,Malm,reached on a fielder's choice,1,0,0,0,4,5
+Long-Beach-St.,7,bottom,3,Rivera,struck out swinging,1,0,0,0,4,5
+Cal-Poly,8,top,1,Sands,flied out,0,0,0,0,4,5
+Cal-Poly,8,top,2,Cabrera,flied out,0,0,0,0,4,5
+Cal-Poly,8,top,3,DiCarlo,flied out,0,0,0,0,4,5
+Long-Beach-St.,8,bottom,1,VanderWal,flied out,0,0,0,0,4,5
+Long-Beach-St.,8,bottom,2,Hogan,struck out swinging,0,0,0,0,4,5
+Long-Beach-St.,8,bottom,3,Stotler,struck out swinging,0,0,0,0,4,5
+Cal-Poly,9,top,1,Emmerson,flied out,0,0,0,0,4,5
+Cal-Poly,9,top,2,Kuzma,grounded out,0,0,0,0,4,5
+Cal-Poly,9,top,3,Gurnik,grounded out,0,0,0,0,4,5
+Long-Beach-St.,9,bottom,0,Jimenez,walked,1,0,0,0,4,5
+Long-Beach-St.,9,bottom,0,Hughey,singled,1,1,0,0,4,5
+Long-Beach-St.,9,bottom,0,Huffman,hit by pitch,1,1,1,0,4,5
+Long-Beach-St.,9,bottom,1,Rasmussen,struck out looking,1,1,1,0,4,5
+Long-Beach-St.,9,bottom,2,Malm,struck out swinging,1,1,1,0,4,5
+Long-Beach-St.,9,bottom,3,Campeau,struck out swinging,1,1,1,0,4,5

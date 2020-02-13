@@ -1,0 +1,116 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-St.-Fullerton,1,top,0,"LoForte,H.",walked,1,0,0,0,0,0
+Cal-St.-Fullerton,1,top,0,"Berryhill,M",singled,1,0,1,0,0,0
+Cal-St.-Fullerton,1,top,1,Valenzuela,singled,0,0,0,1,0,1
+Cal-St.-Fullerton,1,top,2,"Garcia,I.",grounded out,0,0,0,0,0,1
+Cal-St.-Fullerton,1,top,3,"Cope,D.",struck out swinging,0,0,0,0,0,1
+Cal-Poly,1,bottom,1,Gurnik,grounded out,0,0,0,0,0,1
+Cal-Poly,1,bottom,1,Greene,singled,1,0,0,0,0,1
+Cal-Poly,1,bottom,2,Beesley,reached on a fielder's choice,1,0,0,0,0,1
+Cal-Poly,1,bottom,2,Beesley,stole,1,1,0,0,0,1
+Cal-Poly,1,bottom,3,Samuelson,grounded out,1,1,0,0,0,1
+Cal-St.-Fullerton,2,top,1,Guangorena,out at first 1b,0,0,0,0,0,1
+Cal-St.-Fullerton,2,top,2,"Richards,J.",fouled out,0,0,0,0,0,1
+Cal-St.-Fullerton,2,top,3,"Pavletich,J",flied out,0,0,0,0,0,1
+Cal-Poly,2,bottom,1,Taylor,flied out,0,0,0,0,0,1
+Cal-Poly,2,bottom,2,Sands,lined out,0,0,0,0,0,1
+Cal-Poly,2,bottom,2,Kuzma,walked,1,0,0,0,0,1
+Cal-Poly,2,bottom,2,Kuzma,advanced on wild pitch,0,1,0,0,0,1
+Cal-Poly,2,bottom,2,Emmerson,singled,1,1,0,1,1,1
+Cal-Poly,2,bottom,2,Doherty,hit by pitch,1,1,0,0,1,1
+Cal-Poly,2,bottom,3,Gurnik,grounded out,1,1,0,0,1,1
+Cal-St.-Fullerton,3,top,0,"Borgogno,B.",homered,0,0,0,1,1,2
+Cal-St.-Fullerton,3,top,1,"LoForte,H.",flied out,0,0,0,0,1,2
+Cal-St.-Fullerton,3,top,1,"Berryhill,M",walked,1,0,0,0,1,2
+Cal-St.-Fullerton,3,top,1,Valenzuela,doubled,0,1,1,0,1,2
+Cal-St.-Fullerton,3,top,2,"Garcia,I.",struck out looking,0,1,1,0,1,2
+Cal-St.-Fullerton,3,top,2,"Cope,D.",reached on a throwing error by ss,0,0,1,1,1,3
+Cal-St.-Fullerton,3,top,2,"Cope,D.",advanced on wild pitch,0,1,0,0,1,3
+Cal-St.-Fullerton,3,top,2,Guangorena,walked,1,1,0,0,1,3
+Cal-St.-Fullerton,3,top,2,"Richards,J.",singled,1,1,0,2,1,5
+Cal-St.-Fullerton,3,top,4,"Pavletich,J",swinging,1,1,0,0,1,5
+Cal-Poly,3,bottom,1,Greene,grounded out,0,0,0,0,1,5
+Cal-Poly,3,bottom,2,Beesley,flied out,0,0,0,0,1,5
+Cal-Poly,3,bottom,3,Samuelson,struck out looking,0,0,0,0,1,5
+Cal-St.-Fullerton,4,top,1,"Borgogno,B.",struck out looking,0,0,0,0,1,5
+Cal-St.-Fullerton,4,top,2,"LoForte,H.",struck out swinging,0,0,0,0,1,5
+Cal-St.-Fullerton,4,top,2,"Berryhill,M",walked,1,0,0,0,1,5
+Cal-St.-Fullerton,4,top,2,"Berryhill,M",stole,1,1,0,0,1,5
+Cal-St.-Fullerton,4,top,2,Valenzuela,walked,1,1,0,0,1,5
+Cal-St.-Fullerton,4,top,3,"Garcia,I.",flied out,1,1,0,0,1,5
+Cal-Poly,4,bottom,0,Taylor,doubled,0,1,0,0,1,5
+Cal-Poly,4,bottom,0,Sands,singled,1,0,1,0,1,5
+Cal-Poly,4,bottom,0,Sands,advanced on wild pitch,0,1,0,0,1,5
+Cal-Poly,4,bottom,0,Sands,advanced on wild pitch,0,0,1,1,2,5
+Cal-Poly,4,bottom,1,Kuzma,popped up,0,0,1,0,2,5
+Cal-Poly,4,bottom,1,Emmerson,singled,1,0,1,1,3,5
+Cal-Poly,4,bottom,2,Doherty,grounded out,0,1,0,0,3,5
+Cal-Poly,4,bottom,2,Emmerson,advanced on wild pitch,0,0,1,0,3,5
+Cal-Poly,4,bottom,2,Gurnik,hit by pitch,1,0,1,0,3,5
+Cal-Poly,4,bottom,3,Greene,grounded out,1,0,1,0,3,5
+Cal-St.-Fullerton,5,top,1,"Cope,D.",flied out,0,0,0,0,3,5
+Cal-St.-Fullerton,5,top,2,Guangorena,lined out,0,0,0,0,3,5
+Cal-St.-Fullerton,5,top,2,"Richards,J.",singled,1,0,0,0,3,5
+Cal-St.-Fullerton,5,top,2,"Pavletich,J",homered,1,0,0,2,3,7
+Cal-St.-Fullerton,5,top,2,"Borgogno,B.",homered,1,0,0,1,3,8
+Cal-St.-Fullerton,5,top,2,"LoForte,H.",walked,1,0,0,0,3,8
+Cal-St.-Fullerton,5,top,2,"Berryhill,M",walked,1,1,0,0,3,8
+Cal-St.-Fullerton,5,top,2,Valenzuela,walked,1,1,1,0,3,8
+Cal-St.-Fullerton,5,top,3,"Garcia,I.",lined out,1,1,1,0,3,8
+Cal-Poly,5,bottom,1,Beesley,flied out,0,0,0,0,3,8
+Cal-Poly,5,bottom,1,Samuelson,walked,1,0,0,0,3,8
+Cal-Poly,5,bottom,2,Taylor,struck out swinging,1,0,0,0,3,8
+Cal-Poly,5,bottom,2,Sands,walked,1,1,0,0,3,8
+Cal-Poly,5,bottom,2,Kuzma,singled,1,1,0,1,4,8
+Cal-Poly,5,bottom,3,Emmerson,flied out,1,1,0,0,4,8
+Cal-St.-Fullerton,6,top,0,"Cope,D.",singled,1,0,0,0,4,8
+Cal-St.-Fullerton,6,top,0,Guangorena,singled,1,1,0,0,4,8
+Cal-St.-Fullerton,6,top,0,"Richards,J.",singled,1,1,1,0,4,8
+Cal-St.-Fullerton,6,top,0,"Pavletich,J",singled,1,1,1,1,4,9
+Cal-St.-Fullerton,6,top,1,"Borgogno,B.",reached on a fielder's choice,0,1,1,0,4,9
+Cal-St.-Fullerton,6,top,2,"LoForte,H.",struck out swinging,0,1,1,0,4,9
+Cal-St.-Fullerton,6,top,2,"Berryhill,M",singled,1,1,1,1,4,10
+Cal-St.-Fullerton,6,top,2,Valenzuela,singled,1,0,1,2,4,12
+Cal-St.-Fullerton,6,top,2,"Garcia,I.",singled,1,0,0,1,4,13
+Cal-St.-Fullerton,6,top,2,"Cope,D.",2b,0,0,1,1,4,14
+Cal-St.-Fullerton,6,top,3,Guangorena,struck out swinging,0,0,1,0,4,14
+Cal-Poly,6,bottom,0,"Brandow,J.",,0,0,0,0,4,14
+Cal-Poly,6,bottom,0,Doherty,reached on a throwing error by ss,0,0,0,0,4,14
+Cal-Poly,6,bottom,1,Cano,struck out looking,0,0,0,0,4,14
+Cal-Poly,6,bottom,1,Greene,doubled,0,1,1,0,4,14
+Cal-Poly,6,bottom,2,Beesley,flied out,0,1,1,1,5,14
+Cal-Poly,6,bottom,2,Samuelson,singled,1,1,1,1,6,14
+Cal-Poly,6,bottom,3,Cabrera,reached on a fielder's choice,1,1,1,0,6,14
+Cal-St.-Fullerton,7,top,0,Cano,,0,0,0,0,6,14
+Cal-St.-Fullerton,7,top,0,Cabrera,,0,0,0,0,6,14
+Cal-St.-Fullerton,7,top,0,"Brandow,J.",singled,1,0,0,0,6,14
+Cal-St.-Fullerton,7,top,0,"Pavletich,J",doubled,0,1,1,0,6,14
+Cal-St.-Fullerton,7,top,1,"Borgogno,B.",flied out,0,0,1,1,6,15
+Cal-St.-Fullerton,7,top,2,"LoForte,H.",flied out,0,0,1,0,6,15
+Cal-St.-Fullerton,7,top,2,"Berryhill,M",singled,1,0,1,1,6,16
+Cal-St.-Fullerton,7,top,3,Valenzuela,struck out swinging,1,0,1,0,6,16
+Cal-Poly,7,bottom,0,"Curtis,A.",,0,0,0,0,6,16
+Cal-Poly,7,bottom,0,"Hernandez,J",,0,0,0,0,6,16
+Cal-Poly,7,bottom,0,"Weller,Z.",,0,0,0,0,6,16
+Cal-Poly,7,bottom,0,"Borgogno,B.",,0,0,0,0,6,16
+Cal-Poly,7,bottom,0,Sands,singled,1,0,0,0,6,16
+Cal-Poly,7,bottom,1,Kuzma,flied out,1,0,0,0,6,16
+Cal-Poly,7,bottom,2,Loucks,flied out,1,0,0,0,6,16
+Cal-Poly,7,bottom,3,Doherty,flied out,1,0,0,0,6,16
+Cal-St.-Fullerton,8,top,0,Wagenseller,,0,0,0,0,6,16
+Cal-St.-Fullerton,8,top,0,Loucks,,0,0,0,0,6,16
+Cal-St.-Fullerton,8,top,1,"Garcia,I.",flied out,0,0,0,0,6,16
+Cal-St.-Fullerton,8,top,2,"Lew,Z.",grounded out,0,0,0,0,6,16
+Cal-St.-Fullerton,8,top,2,Guangorena,singled,1,0,0,0,6,16
+Cal-St.-Fullerton,8,top,3,"Brandow,J.",flied out,1,0,0,0,6,16
+Cal-Poly,8,bottom,0,Cano,singled,1,0,0,0,6,16
+Cal-Poly,8,bottom,1,Wagenseller,flied out,1,0,0,0,6,16
+Cal-Poly,8,bottom,1,Beesley,doubled,0,1,1,0,6,16
+Cal-Poly,8,bottom,2,Samuelson,flied out,0,1,1,0,6,16
+Cal-Poly,8,bottom,3,Cabrera,flied out,0,1,1,0,6,16
+Cal-St.-Fullerton,9,top,1,"Curtis,A.",lined out,0,0,0,0,6,16
+Cal-St.-Fullerton,9,top,2,"Borgogno,B.",flied out,0,0,0,0,6,16
+Cal-St.-Fullerton,9,top,3,"LoForte,H.",grounded out,0,0,0,0,6,16
+Cal-Poly,9,bottom,1,Sands,struck out swinging,0,0,0,0,6,16
+Cal-Poly,9,bottom,2,Kuzma,fouled out,0,0,0,0,6,16
+Cal-Poly,9,bottom,3,Mackay,struck out swinging,0,0,0,0,6,16

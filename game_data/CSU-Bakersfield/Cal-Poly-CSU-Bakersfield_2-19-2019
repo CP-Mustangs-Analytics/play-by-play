@@ -1,0 +1,92 @@
+team,inning,half,outs,batter,action,first,second,third,runs_scored,home_score,visitor_score
+Cal-Poly,1,top,0,Cano,walked.,1,0,0,0,0,0
+Cal-Poly,1,top,1,Greene,grounded out,0,1,0,0,0,0
+Cal-Poly,1,top,2,Beesley,flied out,0,0,1,0,0,0
+Cal-Poly,1,top,3,Samuelson,struck out swinging.,0,0,1,0,0,0
+CSU-Bakersfield,1,bottom,1,"Charles,E",struck out swinging.,0,0,0,0,0,0
+CSU-Bakersfield,1,bottom,2,"Picketts,W",flied out,0,0,0,0,0,0
+CSU-Bakersfield,1,bottom,3,"Rowley,J",struck out swinging.,0,0,0,0,0,0
+Cal-Poly,2,top,1,DiCarlo,grounded out,0,0,0,0,0,0
+Cal-Poly,2,top,2,Wagenseller,grounded out,0,0,0,0,0,0
+Cal-Poly,2,top,2,Cabrera,walked.,1,0,0,0,0,0
+Cal-Poly,2,top,3,Mackay,grounded out,1,0,0,0,0,0
+CSU-Bakersfield,2,bottom,1,"Robles,S",grounded out,0,0,0,0,0,0
+CSU-Bakersfield,2,bottom,2,"Henderson,D",struck out swinging.,0,0,0,0,0,0
+CSU-Bakersfield,2,bottom,3,"Grossman,N",grounded out,0,0,0,0,0,0
+Cal-Poly,3,top,0,Gurnik,walked.,1,0,0,0,0,0
+Cal-Poly,3,top,0,Gurnik,advanced on wild pitch,0,1,0,0,0,0
+Cal-Poly,3,top,1,Cano,struck out swinging.,0,1,0,0,0,0
+Cal-Poly,3,top,1,Greene,singled,1,1,0,1,0,1
+Cal-Poly,3,top,1,Beesley,advanced on wild pitch,1,1,0,0,0,1
+Cal-Poly,3,top,2,Samuelson,struck out swinging.,1,1,0,0,0,1
+Cal-Poly,3,top,2,DiCarlo,advanced on wild pitch,1,1,1,0,0,1
+Cal-Poly,3,top,2,DiCarlo,advanced on wild pitch,0,1,1,1,0,2
+Cal-Poly,3,top,2,DiCarlo,advanced on wild pitch,0,0,1,1,0,3
+Cal-Poly,3,top,2,Wagenseller,walked.,1,0,1,0,0,3
+Cal-Poly,3,top,3,Wagenseller,out at second c,1,0,1,0,0,3
+CSU-Bakersfield,3,bottom,1,"Jorgensen,T",struck out swinging.,0,0,0,0,0,3
+CSU-Bakersfield,3,bottom,2,"Ortega,J",flied out,0,0,0,0,0,3
+CSU-Bakersfield,3,bottom,3,"Carrizosa,D",struck out swinging.,0,0,0,0,0,3
+Cal-Poly,4,top,0,Cabrera,walked.,1,0,0,0,0,3
+Cal-Poly,4,top,0,Mackay,advanced on wild pitch,1,1,0,0,0,3
+Cal-Poly,4,top,1,Gurnik,grounded out,0,1,1,0,0,3
+Cal-Poly,4,top,2,Cano,lined out,0,1,1,0,0,3
+Cal-Poly,4,top,2,Greene,walked.,1,1,1,0,0,3
+Cal-Poly,4,top,3,Beesley,singled,1,1,0,1,0,4
+CSU-Bakersfield,4,bottom,0,"Charles,E",walked.,1,0,0,0,0,4
+CSU-Bakersfield,4,bottom,1,"Picketts,W",struck out swinging.,1,0,0,0,0,4
+CSU-Bakersfield,4,bottom,2,"Rowley,J",flied out,1,0,0,0,0,4
+CSU-Bakersfield,4,bottom,2,"Robles,S",singled,1,1,0,0,0,4
+CSU-Bakersfield,4,bottom,3,"Henderson,D",struck out swinging.,1,1,0,0,0,4
+Cal-Poly,5,top,1,Samuelson,grounded out,0,0,0,0,0,4
+Cal-Poly,5,top,2,DiCarlo,struck out swinging.,0,0,0,0,0,4
+Cal-Poly,5,top,3,Wagenseller,grounded out,0,0,0,0,0,4
+CSU-Bakersfield,5,bottom,0,"Grossman,N",singled,1,0,0,0,0,4
+CSU-Bakersfield,5,bottom,0,"Jorgensen,T",singled,1,1,0,0,0,4
+CSU-Bakersfield,5,bottom,1,"Ortega,J",Jorgensen,0,1,0,0,0,4
+CSU-Bakersfield,5,bottom,3,"Carrizosa,D",grounded into double play 3b,0,1,0,0,0,4
+Cal-Poly,6,top,1,Cabrera,grounded out,0,0,0,0,0,4
+Cal-Poly,6,top,2,Mackay,struck out swinging.,0,0,0,0,0,4
+Cal-Poly,6,top,2,Gurnik,singled,1,0,0,0,0,4
+Cal-Poly,6,top,2,Gurnik,stole,1,1,0,0,0,4
+Cal-Poly,6,top,2,Cano,walked.,1,1,0,0,0,4
+Cal-Poly,6,top,3,Greene,flied out,1,1,0,0,0,4
+CSU-Bakersfield,6,bottom,1,"Charles,E",struck out swinging.,0,0,0,0,0,4
+CSU-Bakersfield,6,bottom,2,"Picketts,W",fouled out,0,0,0,0,0,4
+CSU-Bakersfield,6,bottom,3,"Rowley,J",struck out swinging.,0,0,0,0,0,4
+Cal-Poly,7,top,1,Beesley,grounded out,0,0,0,0,0,4
+Cal-Poly,7,top,2,Samuelson,grounded out,0,0,0,0,0,4
+Cal-Poly,7,top,3,DiCarlo,grounded out,0,0,0,0,0,4
+CSU-Bakersfield,7,bottom,1,"Robles,S",struck out swinging.,0,0,0,0,0,4
+CSU-Bakersfield,7,bottom,2,"Henderson,D",struck out swinging.,0,0,0,0,0,4
+CSU-Bakersfield,7,bottom,3,"Grossman,N",flied out,0,0,0,0,0,4
+Cal-Poly,8,top,0,"Oliver,J",,0,0,0,0,0,4
+Cal-Poly,8,top,1,Wagenseller,struck out looking.,0,0,0,0,0,4
+Cal-Poly,8,top,1,Cabrera,walked.,1,0,0,0,0,4
+Cal-Poly,8,top,1,Mackay,singled,1,1,0,0,0,4
+Cal-Poly,8,top,2,Gurnik,struck out swinging.,1,1,0,0,0,4
+Cal-Poly,8,top,2,Cano,advanced on wild pitch,1,1,1,0,0,4
+Cal-Poly,8,top,2,Greene,singled,1,1,1,1,0,5
+Cal-Poly,8,top,2,Beesley,singled,1,1,0,2,0,7
+Cal-Poly,8,top,3,Samuelson,struck out swinging.,1,1,0,0,0,7
+CSU-Bakersfield,8,bottom,1,"Jorgensen,T",grounded out,0,0,0,0,0,7
+CSU-Bakersfield,8,bottom,1,"Koch,R",walked.,1,0,0,0,0,7
+CSU-Bakersfield,8,bottom,1,"Anderson,B",Koch,1,0,0,0,0,7
+CSU-Bakersfield,8,bottom,2,"Berkey,E",struck out looking.,1,0,0,0,0,7
+CSU-Bakersfield,8,bottom,3,"Oliver,J",grounded out,1,0,0,0,0,7
+Cal-Poly,9,top,0,"Valletta,C",,0,0,0,0,0,7
+Cal-Poly,9,top,0,"Saldivar,A",,0,0,0,0,0,7
+Cal-Poly,9,top,0,"Berkey,E",,0,0,0,0,0,7
+Cal-Poly,9,top,0,DiCarlo,singled,1,0,0,0,0,7
+Cal-Poly,9,top,1,Wagenseller,reached on a fielder's choice; DiCarlo out at second 2b,1,0,0,0,0,7
+Cal-Poly,9,top,1,Cabrera,advanced on wild pitch,1,1,0,0,0,7
+Cal-Poly,9,top,2,Mackay,flied out,0,0,1,0,0,7
+Cal-Poly,9,top,2,Cabrera,advanced on wild pitch,0,1,0,0,0,7
+Cal-Poly,9,top,3,Gurnik,lined out,0,1,0,0,0,7
+CSU-Bakersfield,9,bottom,0,"Picketts,W",walked.,1,0,0,0,0,7
+CSU-Bakersfield,9,bottom,0,"Rowley,J",Picketts,0,1,0,0,0,7
+CSU-Bakersfield,9,bottom,1,"Robles,S",struck out swinging.,0,1,0,0,0,7
+CSU-Bakersfield,9,bottom,2,"Valletta,C",grounded out,0,1,1,0,0,7
+CSU-Bakersfield,9,bottom,2,"Barba,N",walked.,1,1,1,0,0,7
+CSU-Bakersfield,9,bottom,2,"Barba,N",advanced on wild pitch,0,1,1,1,1,7
+CSU-Bakersfield,9,bottom,3,"Gonzales,A",grounded out,0,1,1,0,1,7
